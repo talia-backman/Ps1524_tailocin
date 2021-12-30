@@ -1,0 +1,20 @@
+molecule	gene	start	end	strand	direction
+9_p13.D6_cl7	 REFSEQ hypothetical protein	258	1	reverse	-
+9_p13.D6_cl7	 lexA; repressor LexA [EC:3.4.21.88]	1063	407	reverse	-
+9_p13.D6_cl7	 hypothetical protein	1194	1631	forward	+
+9_p13.D6_cl7	 hypothetical protein	1936	2325	forward	+
+9_p13.D6_cl7	 hypothetical protein	2306	2644	forward	+
+9_p13.D6_cl7	 REFSEQ hypothetical protein	2731	3321	forward	+
+9_p13.D6_cl7	 Protein of unknown function (DUF2635)	3318	3503	forward	+
+9_p13.D6_cl7	 sp|P44233|VPL_HAEIN Mu-like prophage FluMu tail sheath protein	3522	5018	forward	+
+9_p13.D6_cl7	 Phage tail tube protein	5086	5433	forward	+
+9_p13.D6_cl7	 Phage tail assembly chaperone proteins, E, or 41 or 14	5430	5726	forward	+
+9_p13.D6_cl7	 REFSEQ hypothetical protein	5857	8139	forward	+
+9_p13.D6_cl7	 sp|P71389|VPN_HAEIN Mu-like prophage FluMu DNA circularization protein	8136	9629	forward	+
+9_p13.D6_cl7	 sp|P10312|BPD_BPP2 Probable baseplate hub protein	9633	10739	forward	+
+9_p13.D6_cl7	 Bacteriophage Mu Gp45 protein	10736	11245	forward	+
+9_p13.D6_cl7	 Phage protein GP46	11245	11643	forward	+
+9_p13.D6_cl7	 Baseplate J-like protein	11633	12673	forward	+
+9_p13.D6_cl7	 Uncharacterised protein conserved in bacteria (DUF2313)	12661	13260	forward	+
+9_p13.D6_cl7	 hypothetical protein	13271	15073	forward	+
+9_p13.D6_cl7	 sp|P03740|TFA_LAMBD Tail fiber assembly protein	15084	15596	forward	+

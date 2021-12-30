@@ -1,0 +1,22 @@
+molecule	gene	start	end	strand	direction
+35_p20.H2_cl5	sp|P00726|SPAN1_LAMBD Spanin, inner membrane subunit	510	1	reverse	-
+35_p20.H2_cl5	K03791; putative chitinase	1052	507	reverse	-
+35_p20.H2_cl5	sp|P03740|TFA_LAMBD Tail fiber assembly protein	1606	1064	reverse	-
+35_p20.H2_cl5	hypothetical protein	3453	1624	reverse	-
+35_p20.H2_cl5	Uncharacterised protein conserved in bacteria (DUF2313)	4063	3463	reverse	-
+35_p20.H2_cl5	Baseplate J-like protein	5091	4051	reverse	-
+35_p20.H2_cl5	Phage protein GP46	5479	5081	reverse	-
+35_p20.H2_cl5	Bacteriophage Mu Gp45 protein	5988	5479	reverse	-
+35_p20.H2_cl5	sp|P10312|BPD_BPP2 Probable baseplate hub protein	7091	5985	reverse	-
+35_p20.H2_cl5	sp|P71389|VPN_HAEIN Mu-like prophage FluMu DNA circularization protein	8561	7095	reverse	-
+35_p20.H2_cl5	REFSEQ hypothetical protein	10840	8558	reverse	-
+35_p20.H2_cl5	Phage tail assembly chaperone proteins, E, or 41 or 14	11267	10971	reverse	-
+35_p20.H2_cl5	Phage tail tube protein	11611	11264	reverse	-
+35_p20.H2_cl5	sp|P44233|VPL_HAEIN Mu-like prophage FluMu tail sheath protein	13175	11679	reverse	-
+35_p20.H2_cl5	Protein of unknown function (DUF2635)	13379	13194	reverse	-
+35_p20.H2_cl5	REFSEQ hypothetical protein	13966	13376	reverse	-
+35_p20.H2_cl5	hypothetical protein	14391	14053	reverse	-
+35_p20.H2_cl5	hypothetical protein	14761	14372	reverse	-
+35_p20.H2_cl5	hypothetical protein	15503	15066	reverse	-
+35_p20.H2_cl5	lexA; repressor LexA [EC:3.4.21.88]	15634	16290	forward	+
+35_p20.H2_cl5	REFSEQ hypothetical protei	16439	16696	forward	+

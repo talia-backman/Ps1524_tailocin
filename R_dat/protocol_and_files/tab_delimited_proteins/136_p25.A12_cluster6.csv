@@ -1,0 +1,14 @@
+molecule	gene	start	end	strand	direction
+136_p25.A12_cl6	REFSEQ hypothetical protein	1	1614	forward	+ 
+136_p25.A12_cl6	Phage tail assembly chaperone proteins, E, or 41 or 14	2041	1745	reverse	- 
+136_p25.A12_cl6	Phage tail tube protein	2385	2038	reverse	- 
+136_p25.A12_cl6	sp|P44233|VPL_HAEIN Mu-like prophage FluMu tail sheath protein	3949	2453	reverse 	- 
+136_p25.A12_cl6	Protein of unknown function (DUF2635)	4154	3933	reverse	-
+136_p25.A12_cl6	REFSEQ hypothetical protein	4741	4151	reverse	-
+136_p25.A12_cl6	hypothetical protein	5166	4828	reverse	-
+136_p25.A12_cl6	hypothetical protein	5536	5147	reverse	-
+136_p25.A12_cl6	hypothetical protein	6278	5841	reverse	-
+136_p25.A12_cl6	lexA; repressor LexA [EC:3.4.21.88]	6421	7065	forward	+ 
+136_p25.A12_cl6	REFSEQ hypothetical protein	7214	7471	forward	+ 
+136_p25.A12_cl6	hypothetical protein	7560	7742	forward	+ 
+136_p25.A12_cl6	Pyocin activator protein PrtN	7789	8031	forward	+ 

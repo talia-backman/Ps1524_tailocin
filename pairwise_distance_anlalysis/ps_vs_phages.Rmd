@@ -1,0 +1,117 @@
+---
+title: "Ps vs phage pairwise distance"
+author: "Backman"
+date: "9/9/2021"
+output: html_document
+---
+
+```{r, warning=FALSE,message=FALSE}
+library(ape)
+library(castor)
+library(ggplot2)
+library(ggtree)
+library(dplyr)
+library(flexclust)
+library(quanteda)
+library(spaa)
+library(reshape2)
+```
+
+For Pseudomonas
+```{r}
+# collapsed Pseudomonas tree
+ps_tree <- read.tree("./collapsed_single_name.nwk")
+# extract the pairwise distance matrix from the ps_tree
+ps_matrix <- cophenetic.phylo(ps_tree)
+```
+
+For phages
+```{r,message=FALSE, warning=FALSE}
+# mash genetic distance matrix for cluster 2
+phage_tbl <- read.table("./mash_cluster2_results")
+
+# clean phage_tbl so that the row and column names match ps_matrix
+phage_tbl[,1] <- lapply(phage_tbl, gsub, pattern='late', replacement='')
+phage_tbl[,1] <- lapply(phage_tbl, gsub, pattern='.pilon.contigs_renamed.phages_lysogenic.fas', replacement='')
+phage_tbl[,1] <- gsub("^.{0,4}", "", phage_tbl[,1])
+# uncomment for use
+# table(phage_tbl[,1]) # to see if there are duplicate values in V1
+
+# clean phage_tbl so that the row and column names match ps_matrix
+col1 <- make.unique(phage_tbl$V1, sep = '_')
+phage_tbl$V1 <- col1
+rownames(phage_tbl) <- phage_tbl$V1
+phage_tbl <- phage_tbl[c(2:1397)]
+phage_tbl <- slice(phage_tbl, 1:(n() - 1))
+colnames(phage_tbl) <- rownames(phage_tbl)
+phage_matrix <- as.matrix(phage_tbl)
+```
+
+```{r}
+# find all values in phage_tbl which are present in ps_matrix
+phage_tbl2 <- phage_tbl[(colnames(phage_tbl)) %in% colnames(ps_matrix),(rownames(phage_tbl)) %in% rownames(ps_matrix)]
+
+# find all values in ps_matrix which are present in phage_tbl2
+ps_matrix2 <- ps_matrix[(colnames(ps_matrix)) %in% colnames(phage_tbl2),(rownames(ps_matrix)) %in% rownames(phage_tbl2)]
+
+```
+
+```{r}
+phage_tbl2 <- as.matrix(phage_tbl2)
+
+phage_df <- data.frame(rownames(phage_tbl2), colnames(phage_tbl2), as.vector(phage_tbl2))
+ps_df <- data.frame(rownames(ps_matrix2), colnames(ps_matrix2), as.vector(ps_matrix2))
+
+phage_melt <- melt(phage_tbl2)
+colnames(phage_melt)[3] <- "phage"
+ps_melt <- melt(ps_matrix2)
+colnames(ps_melt)[3] <- "ps"
+melt_both <- merge(phage_melt, ps_melt)
+
+colnames(phage_df) <- c("genome1","genome2","phage_distance")
+colnames(ps_df) <- c("genome1","genome2","ps_distance")
+
+all_df <- merge(phage_df, ps_df, by.x =c("genome1","genome2"), by.y = c("genome1","genome2"))
+?merge
+
+test <- phage_df %>% right_join(ps_df, by=c("genome1","genome2"))
+
+ps_df$pasted <- paste(ps_df$genome1, ps_df$genome2, sep = "_")
+
+phage_df$pasted <- paste(phage_df$genome1, phage_df$genome2, sep = "_")
+
+merge(phage_df, ps_df, by="pasted")
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+# rdist between the two matrices
+compare <- dist2(ps_matrix2, phage_tbl2)
+heatmap(compare)
+```
+
+```{r}
+# plot ps pairwise distance vs phage pairwise distance
+image(ps_matrix2)
+phage_tbl2 <- as.matrix(phage_tbl2)
+image(phage_tbl2)
+image(compare)
+
+```
+

@@ -1,0 +1,13 @@
+molecule	gene	start	end	strand	direction
+125_p25.C11_cl10	sp|P00726|SPAN1_LAMBD Spanin, inner membrane subunit	510	1	reverse	-
+125_p25.C11_cl10	K03791; putative chitinase	1052	507	reverse	-
+125_p25.C11_cl10	hypothetical protein	2080	1076	reverse	-
+125_p25.C11_cl10	sp|P03740|TFA_LAMBD Tail fiber assembly protein	2894	2397	reverse	-
+125_p25.C11_cl10	REFSEQ hypothetical protein	3562	3134	reverse	-
+125_p25.C11_cl10	hypothetical protein	4817	3573	reverse	-
+125_p25.C11_cl10	Uncharacterised protein conserved in bacteria (DUF2313)	5427	4828	reverse	-
+125_p25.C11_cl10	Baseplate J-like protein	6455	5415	reverse	-
+125_p25.C11_cl10	Phage protein GP46	6843	6445	reverse	-
+125_p25.C11_cl10	Bacteriophage Mu Gp45 protein	7352	6843	reverse	-
+125_p25.C11_cl10	sp|P10312|BPD_BPP2 Probable baseplate hub protein	8455	7349	reverse	-
+125_p25.C11_cl10	sp|P71389|VPN_HAEIN Mu-like prophage FluMu DNA circularization protein	9952	8459	reverse	-

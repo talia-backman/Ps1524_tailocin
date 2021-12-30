@@ -1,0 +1,32 @@
+{
+    "id": "4EC198AA",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1640642639462.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "stock",
+        "caption": "stock",
+        "totalObservations": "303",
+        "displayedObservations": "303",
+        "variables": "1",
+        "cacheKey": "01DA703C",
+        "object": "stock",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=stock&cache_key=01DA703C&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1090921693186,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640642639462,
+    "read_only": false,
+    "read_only_alternatives": []
+}

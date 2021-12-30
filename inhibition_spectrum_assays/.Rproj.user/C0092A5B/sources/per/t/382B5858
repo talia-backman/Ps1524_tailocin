@@ -1,0 +1,32 @@
+{
+    "id": "382B5858",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1640642623013.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "collapsed",
+        "caption": "collapsed",
+        "totalObservations": "78",
+        "displayedObservations": "78",
+        "variables": "1",
+        "cacheKey": "042443E4",
+        "object": "collapsed",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=collapsed&cache_key=042443E4&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1090921693186,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640642623013,
+    "read_only": false,
+    "read_only_alternatives": []
+}

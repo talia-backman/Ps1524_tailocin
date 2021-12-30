@@ -1,0 +1,25 @@
+{
+    "id": "F268F057",
+    "path": "~/Desktop/phages/Tailocin_analysis/inhibition_spectrum_assays/strains_for_assays.R",
+    "project_path": "strains_for_assays.R",
+    "type": "r_source",
+    "hash": "1946682588",
+    "contents": "",
+    "dirty": false,
+    "created": 1640642579664.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "9,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1640642985,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640642985361,
+    "read_only": false,
+    "read_only_alternatives": []
+}

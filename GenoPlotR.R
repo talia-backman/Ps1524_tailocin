@@ -1,3 +1,4 @@
+# this script doesn't work, keep in case of future use
 # load libraries
 library(genoPlotR)
 

@@ -1,0 +1,1235 @@
+Tester_Strain,Tailocin_donor_strain,Rep1,Rep2,Rep3,Final_numeric,Final_qualitative
+p8.B9,p21.F9,R,R,R,0,Resistant
+p8.B9,p21.F9 no MMC,R,R,R,0,Resistant
+p8.B9,p25.C2,R,R,R,0,Resistant
+p8.B9,p25.C2 no MMC,R,R,R,0,Resistant
+p8.B9,p5.D5,R,R,R,0,Resistant
+p8.B9,p5.D5 no MMC,R,R,R,0,Resistant
+p8.B9,p26.D6,R,R,R,0,Resistant
+p8.B9,p26.D6 no MMC,R,R,R,0,Resistant
+p8.B9,p23.B8,R,R,R,0,Resistant
+p8.B9,p23.B8 no MMC,R,R,R,0,Resistant
+p8.B9,p25.A12,S,S,S,9,Sensitive
+p8.B9,p25.A12 no MMC,O,R,R,1,Partially Sensitive
+p8.B9,p25.A12 KO,R,R,R,0,Resistant
+p8.B9,p25.A12 KO no MMC,R,R,R,0,Resistant
+p25.A12 KO,p21.F9,R,R,R,0,Resistant
+p25.A12 KO,p21.F9 no MMC,R,R,R,0,Resistant
+p25.A12 KO,p25.C2,O,R,R,1,Partially Sensitive
+p25.A12 KO,p25.C2 no MMC,R,R,R,0,Resistant
+p25.A12 KO,p5.D5,O,R,R,1,Partially Sensitive
+p25.A12 KO,p5.D5 no MMC,R,R,R,0,Resistant
+p25.A12 KO,p26.D6,O,R,R,1,Partially Sensitive
+p25.A12 KO,p26.D6 no MMC,R,R,R,0,Resistant
+p25.A12 KO,p23.B8,O,R,R,1,Partially Sensitive
+p25.A12 KO,p23.B8 no MMC,R,R,R,0,Resistant
+p25.A12 KO,p25.A12,O,R,R,1,Partially Sensitive
+p25.A12 KO,p25.A12 no MMC,R,R,R,0,Resistant
+p25.A12 KO,p25.A12 KO,O,R,R,1,Partially Sensitive
+p25.A12 KO,p25.A12 KO no MMC,R,R,R,0,Resistant
+p25.B2,p21.F9,R,O,R,1,Partially Sensitive
+p25.B2,p21.F9 no MMC,R,R,R,0,Resistant
+p25.B2,p25.C2,R,O,R,1,Partially Sensitive
+p25.B2,p25.C2 no MMC,R,R,R,0,Resistant
+p25.B2,p5.D5,O,O,R,2,Partially Sensitive
+p25.B2,p5.D5 no MMC,R,R,R,0,Resistant
+p25.B2,p26.D6,R,O,R,1,Partially Sensitive
+p25.B2,p26.D6 no MMC,R,R,R,0,Resistant
+p25.B2,p23.B8,R,O,R,1,Partially Sensitive
+p25.B2,p23.B8 no MMC,R,R,R,0,Resistant
+p25.B2,p25.A12,O,S,S,7,Sensitive
+p25.B2,p25.A12 no MMC,R,SC,O,3,Partially Sensitive
+p25.B2,p25.A12 KO,R,R,R,0,Resistant
+p25.B2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p21.F9,p21.F9,R,R,NA,0,Resistant
+p21.F9,p21.F9 no MMC,R,R,NA,0,Resistant
+p21.F9,p25.C2,R,R,NA,0,Resistant
+p21.F9,p25.C2 no MMC,R,R,NA,0,Resistant
+p21.F9,p5.D5,R,R,NA,0,Resistant
+p21.F9,p5.D5 no MMC,R,R,NA,0,Resistant
+p21.F9,p26.D6,R,phage,NA,NA,NA
+p21.F9,p26.D6 no MMC,R,R,NA,0,Resistant
+p21.F9,p23.B8,R,R,NA,0,Resistant
+p21.F9,p23.B8 no MMC,R,R,NA,0,Resistant
+p21.F9,p25.A12,R,S,NA,3,Partially Sensitive
+p21.F9,p25.A12 no MMC,R,O,NA,1,Partially Sensitive
+p21.F9,p25.A12 KO,R,R,NA,0,Resistant
+p21.F9,p25.A12 KO no MMC,R,R,NA,0,Resistant
+p5.C1,p21.F9,R,R,R,0,Resistant
+p5.C1,p21.F9 no MMC,R,R,R,0,Resistant
+p5.C1,p25.C2,O,R,R,1,Partially Sensitive
+p5.C1,p25.C2 no MMC,R,R,R,0,Resistant
+p5.C1,p5.D5,O,R,R,1,Partially Sensitive
+p5.C1,p5.D5 no MMC,R,R,R,0,Resistant
+p5.C1,p26.D6,phage,phage,phage,NA,NA
+p5.C1,p26.D6 no MMC,S,R,S,6,Mostly Sensitive
+p5.C1,p23.B8,O,R,R,1,Partially Sensitive
+p5.C1,p23.B8 no MMC,R,R,R,0,Resistant
+p5.C1,p25.A12,S,S,S,9,Sensitive
+p5.C1,p25.A12 no MMC,O,R,R,1,Partially Sensitive
+p5.C1,p25.A12 KO,R,R,R,0,Resistant
+p5.C1,p25.A12 KO no MMC,R,R,R,0,Resistant
+p26.D6,p21.F9,R,S,S,6,Mostly Sensitive
+p26.D6,p21.F9 no MMC,R,S,R,3,Partially Sensitive
+p26.D6,p25.C2,R,S,O,4,Mostly Sensitive
+p26.D6,p25.C2 no MMC,R,R,R,0,Resistant
+p26.D6,p5.D5,O,S,S,7,Sensitive
+p26.D6,p5.D5 no MMC,R,O,R,1,Partially Sensitive
+p26.D6,p26.D6,R,S,O,4,Mostly Sensitive
+p26.D6,p26.D6 no MMC,R,O,R,1,Partially Sensitive
+p26.D6,p23.B8,R,S,O,4,Mostly Sensitive
+p26.D6,p23.B8 no MMC,R,R,R,0,Resistant
+p26.D6,p25.A12,S,S,S,9,Sensitive
+p26.D6,p25.A12 no MMC,R,R,O,1,Partially Sensitive
+p26.D6,p25.A12 KO,O,R,R,1,Partially Sensitive
+p26.D6,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.A10,p21.F9,S,O,S,7,Sensitive
+p6.A10,p21.F9 no MMC,R,O,R,1,Partially Sensitive
+p6.A10,p25.C2,O,O,O,3,Partially Sensitive
+p6.A10,p25.C2 no MMC,R,R,R,0,Resistant
+p6.A10,p5.D5,O,R,O,2,Partially Sensitive
+p6.A10,p5.D5 no MMC,R,R,R,0,Resistant
+p6.A10,p26.D6,phage,S,phage,NA,NA
+p6.A10,p26.D6 no MMC,R,R,R,0,Resistant
+p6.A10,p23.B8,R,O,R,1,Partially Sensitive
+p6.A10,p23.B8 no MMC,R,R,R,0,Resistant
+p6.A10,p25.A12,S,S,S,9,Sensitive
+p6.A10,p25.A12 no MMC,O,O,O,3,Partially Sensitive
+p6.A10,p25.A12 KO,R,R,R,0,Resistant
+p6.A10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p27.F2,p21.F9,R,O,R,1,Partially Sensitive
+p27.F2,p21.F9 no MMC,R,R,R,0,Resistant
+p27.F2,p25.C2,R,O,R,1,Partially Sensitive
+p27.F2,p25.C2 no MMC,R,R,R,0,Resistant
+p27.F2,p5.D5,R,O,R,1,Partially Sensitive
+p27.F2,p5.D5 no MMC,R,R,R,0,Resistant
+p27.F2,p26.D6,O,R,R,1,Partially Sensitive
+p27.F2,p26.D6 no MMC,R,R,R,0,Resistant
+p27.F2,p23.B8,R,O,R,1,Partially Sensitive
+p27.F2,p23.B8 no MMC,R,R,R,0,Resistant
+p27.F2,p25.A12,R,O,R,1,Partially Sensitive
+p27.F2,p25.A12 no MMC,R,R,R,0,Resistant
+p27.F2,p25.A12 KO,R,R,R,0,Resistant
+p27.F2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p20.D4,p21.F9,R,R,S,3,Partially Sensitive
+p20.D4,p21.F9 no MMC,O,R,R,1,Partially Sensitive
+p20.D4,p25.C2,R,R,R,0,Resistant
+p20.D4,p25.C2 no MMC,R,R,R,0,Resistant
+p20.D4,p5.D5,S,R,R,3,Partially Sensitive
+p20.D4,p5.D5 no MMC,R,R,R,0,Resistant
+p20.D4,p26.D6,phage,R,phage,NA,NA
+p20.D4,p26.D6 no MMC,R,R,R,0,Resistant
+p20.D4,p23.B8,R,R,R,0,Resistant
+p20.D4,p23.B8 no MMC,R,R,R,0,Resistant
+p20.D4,p25.A12,S,S,S,9,Sensitive
+p20.D4,p25.A12 no MMC,O,O,O,3,Partially Sensitive
+p20.D4,p25.A12 KO,R,R,R,0,Resistant
+p20.D4,p25.A12 KO no MMC,R,R,R,0,Resistant
+p22.C1,p21.F9,R,R,R,0,Resistant
+p22.C1,p21.F9 no MMC,R,R,R,0,Resistant
+p22.C1,p25.C2,R,R,R,0,Resistant
+p22.C1,p25.C2 no MMC,R,R,R,0,Resistant
+p22.C1,p5.D5,R,R,R,0,Resistant
+p22.C1,p5.D5 no MMC,R,R,R,0,Resistant
+p22.C1,p26.D6,R,R,R,0,Resistant
+p22.C1,p26.D6 no MMC,R,R,R,0,Resistant
+p22.C1,p23.B8,R,R,R,0,Resistant
+p22.C1,p23.B8 no MMC,R,R,R,0,Resistant
+p22.C1,p25.A12,R,R,R,0,Resistant
+p22.C1,p25.A12 no MMC,R,R,R,0,Resistant
+p22.C1,p25.A12 KO,R,R,R,0,Resistant
+p22.C1,p25.A12 KO no MMC,R,R,R,0,Resistant
+p3.F8,p21.F9,R,R,O,1,Partially Sensitive
+p3.F8,p21.F9 no MMC,R,R,R,0,Resistant
+p3.F8,p25.C2,O,R,O,2,Partially Sensitive
+p3.F8,p25.C2 no MMC,R,R,R,0,Resistant
+p3.F8,p5.D5,O,R,O,2,Partially Sensitive
+p3.F8,p5.D5 no MMC,O,R,R,1,Partially Sensitive
+p3.F8,p26.D6,O,R,R,1,Partially Sensitive
+p3.F8,p26.D6 no MMC,O,R,R,1,Partially Sensitive
+p3.F8,p23.B8,O,R,R,1,Partially Sensitive
+p3.F8,p23.B8 no MMC,R,R,R,0,Resistant
+p3.F8,p25.A12,S,S,S,9,Sensitive
+p3.F8,p25.A12 no MMC,S,O,R,4,Mostly Sensitive
+p3.F8,p25.A12 KO,O,R,R,1,Partially Sensitive
+p3.F8,p25.A12 KO no MMC,R,R,R,0,Resistant
+p25.C11,p21.F9,R,R,R,0,Resistant
+p25.C11,p21.F9 no MMC,R,R,R,0,Resistant
+p25.C11,p25.C2,O,R,R,1,Partially Sensitive
+p25.C11,p25.C2 no MMC,O,R,R,1,Partially Sensitive
+p25.C11,p5.D5,SC,R,R,2,Partially Sensitive
+p25.C11,p5.D5 no MMC,R,R,R,0,Resistant
+p25.C11,p26.D6,phage,phage,phage,NA,NA
+p25.C11,p26.D6 no MMC,O,SC,S,6,Mostly Sensitive
+p25.C11,p23.B8,SC,R,R,2,Partially Sensitive
+p25.C11,p23.B8 no MMC,R,R,R,0,Resistant
+p25.C11,p25.A12,S,S,S,9,Sensitive
+p25.C11,p25.A12 no MMC,S,O,R,4,Mostly Sensitive
+p25.C11,p25.A12 KO,R,R,R,0,Resistant
+p25.C11,p25.A12 KO no MMC,R,R,R,0,Resistant
+p22.D1,p21.F9,R,R,R,0,Resistant
+p22.D1,p21.F9 no MMC,R,R,R,0,Resistant
+p22.D1,p25.C2,R,R,R,0,Resistant
+p22.D1,p25.C2 no MMC,R,R,R,0,Resistant
+p22.D1,p5.D5,O,R,O,2,Partially Sensitive
+p22.D1,p5.D5 no MMC,R,R,R,0,Resistant
+p22.D1,p26.D6,phage,phage,phage,NA,NA
+p22.D1,p26.D6 no MMC,O,SC,S,6,Mostly Sensitive
+p22.D1,p23.B8,O,R,R,1,Partially Sensitive
+p22.D1,p23.B8 no MMC,R,R,R,0,Resistant
+p22.D1,p25.A12,S,S,S,9,Sensitive
+p22.D1,p25.A12 no MMC,S,R,O,4,Mostly Sensitive
+p22.D1,p25.A12 KO,R,R,R,0,Resistant
+p22.D1,p25.A12 KO no MMC,R,R,R,0,Resistant
+p3.A3,p21.F9,S,R,O,4,Mostly Sensitive
+p3.A3,p21.F9 no MMC,O,R,R,1,Partially Sensitive
+p3.A3,p25.C2,S,R,O,4,Mostly Sensitive
+p3.A3,p25.C2 no MMC,S,R,R,3,Partially Sensitive
+p3.A3,p5.D5,S,R,O,4,Mostly Sensitive
+p3.A3,p5.D5 no MMC,S,R,R,3,Partially Sensitive
+p3.A3,p26.D6,SC,R,O,3,Partially Sensitive
+p3.A3,p26.D6 no MMC,S,R,R,3,Partially Sensitive
+p3.A3,p23.B8,S,R,R,3,Partially Sensitive
+p3.A3,p23.B8 no MMC,R,R,R,0,Resistant
+p3.A3,p25.A12,S,S,S,9,Sensitive
+p3.A3,p25.A12 no MMC,S,O,O,5,Mostly Sensitive
+p3.A3,p25.A12 KO,SC,R,R,2,Partially Sensitive
+p3.A3,p25.A12 KO no MMC,SC,R,R,2,Partially Sensitive
+p13.F5,p21.F9,R,R,R,0,Resistant
+p13.F5,p21.F9 no MMC,R,R,R,0,Resistant
+p13.F5,p25.C2,R,R,R,0,Resistant
+p13.F5,p25.C2 no MMC,R,R,R,0,Resistant
+p13.F5,p5.D5,R,R,R,0,Resistant
+p13.F5,p5.D5 no MMC,R,R,R,0,Resistant
+p13.F5,p26.D6,R,R,R,0,Resistant
+p13.F5,p26.D6 no MMC,R,R,R,0,Resistant
+p13.F5,p23.B8,R,R,R,0,Resistant
+p13.F5,p23.B8 no MMC,R,R,R,0,Resistant
+p13.F5,p25.A12,R,R,R,0,Resistant
+p13.F5,p25.A12 no MMC,R,R,R,0,Resistant
+p13.F5,p25.A12 KO,R,R,R,0,Resistant
+p13.F5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p8.B3,p21.F9,R,R,R,0,Resistant
+p8.B3,p21.F9 no MMC,R,R,R,0,Resistant
+p8.B3,p25.C2,R,R,R,0,Resistant
+p8.B3,p25.C2 no MMC,R,R,R,0,Resistant
+p8.B3,p5.D5,R,R,R,0,Resistant
+p8.B3,p5.D5 no MMC,R,R,R,0,Resistant
+p8.B3,p26.D6,R,O,R,1,Partially Sensitive
+p8.B3,p26.D6 no MMC,R,R,R,0,Resistant
+p8.B3,p23.B8,R,O,R,1,Partially Sensitive
+p8.B3,p23.B8 no MMC,R,R,R,0,Resistant
+p8.B3,p25.A12,S,S,S,9,Sensitive
+p8.B3,p25.A12 no MMC,R,R,O,1,Partially Sensitive
+p8.B3,p25.A12 KO,R,R,R,0,Resistant
+p8.B3,p25.A12 KO no MMC,R,R,R,0,Resistant
+p25.D2,p21.F9,R,R,R,0,Resistant
+p25.D2,p21.F9 no MMC,R,R,R,0,Resistant
+p25.D2,p25.C2,O,O,O,3,Partially Sensitive
+p25.D2,p25.C2 no MMC,R,R,R,0,Resistant
+p25.D2,p5.D5,S,O,O,5,Mostly Sensitive
+p25.D2,p5.D5 no MMC,S,R,R,3,Partially Sensitive
+p25.D2,p26.D6,O,O,O,3,Partially Sensitive
+p25.D2,p26.D6 no MMC,O,R,R,1,Partially Sensitive
+p25.D2,p23.B8,O,O,R,2,Partially Sensitive
+p25.D2,p23.B8 no MMC,R,R,R,0,Resistant
+p25.D2,p25.A12,S,S,S,9,Sensitive
+p25.D2,p25.A12 no MMC,S,O,O,5,Mostly Sensitive
+p25.D2,p25.A12 KO,R,R,R,0,Resistant
+p25.D2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.B9,p21.F9,R,O,SC,3,Partially Sensitive
+p6.B9,p21.F9 no MMC,R,R,R,0,Resistant
+p6.B9,p25.C2,O,O,SC,4,Mostly Sensitive
+p6.B9,p25.C2 no MMC,R,R,R,0,Resistant
+p6.B9,p5.D5,O,SC,SC,5,Mostly Sensitive
+p6.B9,p5.D5 no MMC,R,R,R,0,Resistant
+p6.B9,p26.D6,R,SC,SC,4,Mostly Sensitive
+p6.B9,p26.D6 no MMC,R,R,R,0,Resistant
+p6.B9,p23.B8,R,SC,R,2,Partially Sensitive
+p6.B9,p23.B8 no MMC,R,R,R,0,Resistant
+p6.B9,p25.A12,S,S,SC,8,Sensitive
+p6.B9,p25.A12 no MMC,SC,R,O,3,Partially Sensitive
+p6.B9,p25.A12 KO,R,R,R,0,Resistant
+p6.B9,p25.A12 KO no MMC,R,R,R,0,Resistant
+p23.A3,p21.F9,O,SC,O,4,Mostly Sensitive
+p23.A3,p21.F9 no MMC,R,SC,R,2,Partially Sensitive
+p23.A3,p25.C2,O,SC,O,4,Mostly Sensitive
+p23.A3,p25.C2 no MMC,R,R,R,0,Resistant
+p23.A3,p5.D5,O,SC,O,4,Mostly Sensitive
+p23.A3,p5.D5 no MMC,R,R,R,0,Resistant
+p23.A3,p26.D6,phage,SC,phage,NA,NA
+p23.A3,p26.D6 no MMC,R,R,R,0,Resistant
+p23.A3,p23.B8,O,SC,R,3,Partially Sensitive
+p23.A3,p23.B8 no MMC,R,R,R,0,Resistant
+p23.A3,p25.A12,R,SC,R,2,Partially Sensitive
+p23.A3,p25.A12 no MMC,R,R,R,0,Resistant
+p23.A3,p25.A12 KO,O,R,R,1,Partially Sensitive
+p23.A3,p25.A12 KO no MMC,R,R,R,0,Resistant
+p3.G9,p21.F9,R,R,R,0,Resistant
+p3.G9,p21.F9 no MMC,R,R,R,0,Resistant
+p3.G9,p25.C2,R,R,R,0,Resistant
+p3.G9,p25.C2 no MMC,R,R,R,0,Resistant
+p3.G9,p5.D5,R,R,R,0,Resistant
+p3.G9,p5.D5 no MMC,R,R,R,0,Resistant
+p3.G9,p26.D6,R,R,R,0,Resistant
+p3.G9,p26.D6 no MMC,R,R,R,0,Resistant
+p3.G9,p23.B8,R,R,R,0,Resistant
+p3.G9,p23.B8 no MMC,R,R,R,0,Resistant
+p3.G9,p25.A12,R,R,R,0,Resistant
+p3.G9,p25.A12 no MMC,R,R,R,0,Resistant
+p3.G9,p25.A12 KO,R,R,R,0,Resistant
+p3.G9,p25.A12 KO no MMC,R,R,R,0,Resistant
+p25.A12,p21.F9,R,R,R,0,Resistant
+p25.A12,p21.F9 no MMC,R,R,R,0,Resistant
+p25.A12,p25.C2,O,R,R,1,Partially Sensitive
+p25.A12,p25.C2 no MMC,R,R,R,0,Resistant
+p25.A12,p5.D5,O,R,R,1,Partially Sensitive
+p25.A12,p5.D5 no MMC,R,R,R,0,Resistant
+p25.A12,p26.D6,O,R,R,1,Partially Sensitive
+p25.A12,p26.D6 no MMC,R,R,R,0,Resistant
+p25.A12,p23.B8,O,R,R,1,Partially Sensitive
+p25.A12,p23.B8 no MMC,R,R,R,0,Resistant
+p25.A12,p25.A12,R,R,R,0,Resistant
+p25.A12,p25.A12 no MMC,R,R,R,0,Resistant
+p25.A12,p25.A12 KO,R,R,R,0,Resistant
+p25.A12,p25.A12 KO no MMC,R,R,R,0,Resistant
+p25.C2,p21.F9,O,SC,R,3,Partially Sensitive
+p25.C2,p21.F9 no MMC,R,O,R,1,Partially Sensitive
+p25.C2,p25.C2,R,SC,R,2,Partially Sensitive
+p25.C2,p25.C2 no MMC,R,R,R,0,Resistant
+p25.C2,p5.D5,SC,SC,R,4,Mostly Sensitive
+p25.C2,p5.D5 no MMC,SC,R,R,2,Partially Sensitive
+p25.C2,p26.D6,R,SC,R,2,Partially Sensitive
+p25.C2,p26.D6 no MMC,R,R,R,0,Resistant
+p25.C2,p23.B8,O,SC,R,3,Partially Sensitive
+p25.C2,p23.B8 no MMC,R,R,R,0,Resistant
+p25.C2,p25.A12,S,SC,S,8,Sensitive
+p25.C2,p25.A12 no MMC,SC,R,R,2,Partially Sensitive
+p25.C2,p25.A12 KO,O,R,R,1,Partially Sensitive
+p25.C2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p21.F1,p21.F9,R,O,O,2,Partially Sensitive
+p21.F1,p21.F9 no MMC,R,R,R,0,Resistant
+p21.F1,p25.C2,S,O,O,5,Mostly Sensitive
+p21.F1,p25.C2 no MMC,R,R,R,0,Resistant
+p21.F1,p5.D5,S,O,O,5,Mostly Sensitive
+p21.F1,p5.D5 no MMC,R,R,R,0,Resistant
+p21.F1,p26.D6,phage,O,R,NA,NA
+p21.F1,p26.D6 no MMC,O,R,R,1,Partially Sensitive
+p21.F1,p23.B8,SC,O,R,3,Partially Sensitive
+p21.F1,p23.B8 no MMC,R,R,R,0,Resistant
+p21.F1,p25.A12,S,S,S,9,Sensitive
+p21.F1,p25.A12 no MMC,O,R,R,1,Partially Sensitive
+p21.F1,p25.A12 KO,SC,R,R,2,Partially Sensitive
+p21.F1,p25.A12 KO no MMC,R,R,R,0,Resistant
+p26.C10,p21.F9,O,R,O,2,Partially Sensitive
+p26.C10,p21.F9 no MMC,R,R,R,0,Resistant
+p26.C10,p25.C2,R,R,O,1,Partially Sensitive
+p26.C10,p25.C2 no MMC,R,R,R,0,Resistant
+p26.C10,p5.D5,R,R,R,0,Resistant
+p26.C10,p5.D5 no MMC,R,R,R,0,Resistant
+p26.C10,p26.D6,R,R,R,0,Resistant
+p26.C10,p26.D6 no MMC,R,R,R,0,Resistant
+p26.C10,p23.B8,R,O,R,1,Partially Sensitive
+p26.C10,p23.B8 no MMC,R,R,R,0,Resistant
+p26.C10,p25.A12,R,O,R,1,Partially Sensitive
+p26.C10,p25.A12 no MMC,R,R,R,0,Resistant
+p26.C10,p25.A12 KO,R,R,R,0,Resistant
+p26.C10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p26.C10,P-buffer,R,R,R,0,Resistant
+p4.A6,p21.F9,O,R,SC,3,Partially Sensitive
+p4.A6,p21.F9 no MMC,R,R,R,0,Resistant
+p4.A6,p25.C2,O,R,SC,3,Partially Sensitive
+p4.A6,p25.C2 no MMC,R,R,R,0,Resistant
+p4.A6,p5.D5,O,R,SC,3,Partially Sensitive
+p4.A6,p5.D5 no MMC,R,R,R,0,Resistant
+p4.A6,p26.D6,R,R,SC,2,Partially Sensitive
+p4.A6,p26.D6 no MMC,R,R,R,0,Resistant
+p4.A6,p23.B8,R,R,R,0,Resistant
+p4.A6,p23.B8 no MMC,R,R,R,0,Resistant
+p4.A6,p25.A12,S,S,S,9,Sensitive
+p4.A6,p25.A12 no MMC,R,O,R,1,Partially Sensitive
+p4.A6,p25.A12 KO,R,R,R,0,Resistant
+p4.A6,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.A6,P-buffer,R,R,R,0,Resistant
+p13.D10,p21.F9,R,R,SC,2,Partially Sensitive
+p13.D10,p21.F9 no MMC,R,R,R,0,Resistant
+p13.D10,p25.C2,R,R,SC,2,Partially Sensitive
+p13.D10,p25.C2 no MMC,R,R,R,0,Resistant
+p13.D10,p5.D5,R,R,SC,2,Partially Sensitive
+p13.D10,p5.D5 no MMC,R,R,R,0,Resistant
+p13.D10,p26.D6,R,R,O,1,Partially Sensitive
+p13.D10,p26.D6 no MMC,R,R,R,0,Resistant
+p13.D10,p23.B8,R,R,O,1,Partially Sensitive
+p13.D10,p23.B8 no MMC,R,R,R,0,Resistant
+p13.D10,p25.A12,R,R,O,1,Partially Sensitive
+p13.D10,p25.A12 no MMC,R,R,R,0,Resistant
+p13.D10,p25.A12 KO,R,R,R,0,Resistant
+p13.D10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p13.D10,P-buffer,R,R,R,0,Resistant
+p5.C3,p21.F9,SC,R,O,3,Partially Sensitive
+p5.C3,p21.F9 no MMC,R,R,R,0,Resistant
+p5.C3,p25.C2,SC,R,O,3,Partially Sensitive
+p5.C3,p25.C2 no MMC,R,R,R,0,Resistant
+p5.C3,p5.D5,SC,R,O,3,Partially Sensitive
+p5.C3,p5.D5 no MMC,R,R,R,0,Resistant
+p5.C3,p26.D6,phage,phage,phage,NA,NA
+p5.C3,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p5.C3,p23.B8,O,R,R,1,Partially Sensitive
+p5.C3,p23.B8 no MMC,R,R,R,0,Resistant
+p5.C3,p25.A12,S,S,S,9,Sensitive
+p5.C3,p25.A12 no MMC,R,O,O,2,Partially Sensitive
+p5.C3,p25.A12 KO,O,R,R,1,Partially Sensitive
+p5.C3,p25.A12 KO no MMC,R,R,R,0,Resistant
+p5.C3,P-buffer,R,R,R,0,Resistant
+p8.E4,p21.F9,R,O,S,4,Mostly Sensitive
+p8.E4,p21.F9 no MMC,R,R,R,0,Resistant
+p8.E4,p25.C2,R,O,S,4,Mostly Sensitive
+p8.E4,p25.C2 no MMC,R,R,R,0,Resistant
+p8.E4,p5.D5,R,O,S,4,Mostly Sensitive
+p8.E4,p5.D5 no MMC,R,O,R,1,Partially Sensitive
+p8.E4,p26.D6,R,O,S,4,Mostly Sensitive
+p8.E4,p26.D6 no MMC,R,R,R,0,Resistant
+p8.E4,p23.B8,R,SC,S,5,Mostly Sensitive
+p8.E4,p23.B8 no MMC,R,R,R,0,Resistant
+p8.E4,p25.A12,R,SC,S,5,Mostly Sensitive
+p8.E4,p25.A12 no MMC,R,R,R,0,Resistant
+p8.E4,p25.A12 KO,R,R,R,0,Resistant
+p8.E4,p25.A12 KO no MMC,R,R,R,0,Resistant
+p8.E4,P-buffer,R,R,R,0,Resistant
+p5.D5,p21.F9,R,O,R,1,Partially Sensitive
+p5.D5,p21.F9 no MMC,R,R,R,0,Resistant
+p5.D5,p25.C2,O,O,R,2,Partially Sensitive
+p5.D5,p25.C2 no MMC,R,R,R,0,Resistant
+p5.D5,p5.D5,O,O,R,2,Partially Sensitive
+p5.D5,p5.D5 no MMC,R,O,R,1,Partially Sensitive
+p5.D5,p26.D6,O,O,R,2,Partially Sensitive
+p5.D5,p26.D6 no MMC,R,R,R,0,Resistant
+p5.D5,p23.B8,O,O,R,2,Partially Sensitive
+p5.D5,p23.B8 no MMC,R,R,R,0,Resistant
+p5.D5,p25.A12,S,S,S,9,Sensitive
+p5.D5,p25.A12 no MMC,R,R,O,1,Partially Sensitive
+p5.D5,p25.A12 KO,R,R,R,0,Resistant
+p5.D5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p5.D5,P-buffer,R,R,R,0,Resistant
+p7.G11,p21.F9,R,R,R,0,Resistant
+p7.G11,p21.F9 no MMC,R,R,R,0,Resistant
+p7.G11,p25.C2,R,R,R,0,Resistant
+p7.G11,p25.C2 no MMC,R,R,R,0,Resistant
+p7.G11,p5.D5,R,R,R,0,Resistant
+p7.G11,p5.D5 no MMC,R,R,R,0,Resistant
+p7.G11,p26.D6,R,R,R,0,Resistant
+p7.G11,p26.D6 no MMC,R,R,R,0,Resistant
+p7.G11,p23.B8,R,R,R,0,Resistant
+p7.G11,p23.B8 no MMC,R,R,R,0,Resistant
+p7.G11,p25.A12,R,R,R,0,Resistant
+p7.G11,p25.A12 no MMC,R,R,R,0,Resistant
+p7.G11,p25.A12 KO,R,R,R,0,Resistant
+p7.G11,p25.A12 KO no MMC,R,R,R,0,Resistant
+p7.G11,P-buffer,R,R,R,0,Resistant
+p27.D6,p21.F9,R,R,O,1,Partially Sensitive
+p27.D6,p21.F9 no MMC,R,R,R,0,Resistant
+p27.D6,p25.C2,R,R,O,1,Partially Sensitive
+p27.D6,p25.C2 no MMC,R,R,R,0,Resistant
+p27.D6,p5.D5,O,R,O,2,Partially Sensitive
+p27.D6,p5.D5 no MMC,R,R,R,0,Resistant
+p27.D6,p26.D6,phage,phage,phage,NA,NA
+p27.D6,p26.D6 no MMC,R,S,S,6,Mostly Sensitive
+p27.D6,p23.B8,R,O,O,2,Partially Sensitive
+p27.D6,p23.B8 no MMC,R,R,R,0,Resistant
+p27.D6,p25.A12,S,S,S,9,Sensitive
+p27.D6,p25.A12 no MMC,R,O,O,2,Partially Sensitive
+p27.D6,p25.A12 KO,R,R,R,0,Resistant
+p27.D6,p25.A12 KO no MMC,R,R,R,0,Resistant
+p27.D6,P-buffer,R,R,R,0,Resistant
+p3.F12,p21.F9,R,R,R,0,Resistant
+p3.F12,p21.F9 no MMC,R,R,R,0,Resistant
+p3.F12,p25.C2,R,R,R,0,Resistant
+p3.F12,p25.C2 no MMC,R,R,R,0,Resistant
+p3.F12,p5.D5,O,R,R,1,Partially Sensitive
+p3.F12,p5.D5 no MMC,R,R,R,0,Resistant
+p3.F12,p26.D6,R,R,R,0,Resistant
+p3.F12,p26.D6 no MMC,R,R,R,0,Resistant
+p3.F12,p23.B8,R,R,R,0,Resistant
+p3.F12,p23.B8 no MMC,R,R,R,0,Resistant
+p3.F12,p25.A12,S,S,S,9,Sensitive
+p3.F12,p25.A12 no MMC,R,R,R,0,Resistant
+p3.F12,p25.A12 KO,R,R,R,0,Resistant
+p3.F12,p25.A12 KO no MMC,R,R,R,0,Resistant
+p3.F12,P-buffer,R,R,R,0,Resistant
+p22.A8,p21.F9,O,R,O,2,Partially Sensitive
+p22.A8,p21.F9 no MMC,R,R,R,0,Resistant
+p22.A8,p25.C2,O,R,O,2,Partially Sensitive
+p22.A8,p25.C2 no MMC,R,R,R,0,Resistant
+p22.A8,p5.D5,O,R,O,2,Partially Sensitive
+p22.A8,p5.D5 no MMC,R,R,R,0,Resistant
+p22.A8,p26.D6,phage,phage,phage,NA,NA
+p22.A8,p26.D6 no MMC,R,O,S,4,Mostly Sensitive
+p22.A8,p23.B8,O,O,O,3,Partially Sensitive
+p22.A8,p23.B8 no MMC,R,R,R,0,Resistant
+p22.A8,p25.A12,S,S,S,9,Sensitive
+p22.A8,p25.A12 no MMC,R,R,O,1,Partially Sensitive
+p22.A8,p25.A12 KO,SC,R,R,2,Partially Sensitive
+p22.A8,p25.A12 KO no MMC,R,R,R,0,Resistant
+p22.A8,P-buffer,R,R,R,0,Resistant
+p12.G7,p21.F9,O,R,O,2,Partially Sensitive
+p12.G7,p21.F9 no MMC,R,R,R,0,Resistant
+p12.G7,p25.C2,O,R,O,2,Partially Sensitive
+p12.G7,p25.C2 no MMC,R,R,R,0,Resistant
+p12.G7,p5.D5,R,R,O,1,Partially Sensitive
+p12.G7,p5.D5 no MMC,R,R,R,0,Resistant
+p12.G7,p26.D6,R,R,R,0,Resistant
+p12.G7,p26.D6 no MMC,R,R,R,0,Resistant
+p12.G7,p23.B8,R,R,R,0,Resistant
+p12.G7,p23.B8 no MMC,R,R,R,0,Resistant
+p12.G7,p25.A12,R,R,R,0,Resistant
+p12.G7,p25.A12 no MMC,R,R,R,0,Resistant
+p12.G7,p25.A12 KO,R,R,R,0,Resistant
+p12.G7,p25.A12 KO no MMC,R,R,R,0,Resistant
+p12.G7,P-buffer,R,R,R,0,Resistant
+p12.A11,p21.F9,R,R,S,3,Partially Sensitive
+p12.A11,p21.F9 no MMC,R,R,R,0,Resistant
+p12.A11,p25.C2,R,R,S,3,Partially Sensitive
+p12.A11,p25.C2 no MMC,R,R,R,0,Resistant
+p12.A11,p5.D5,R,R,S,3,Partially Sensitive
+p12.A11,p5.D5 no MMC,R,R,R,0,Resistant
+p12.A11,p26.D6,phage,phage,phage,NA,NA
+p12.A11,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p12.A11,p23.B8,R,R,SC,2,Partially Sensitive
+p12.A11,p23.B8 no MMC,R,R,R,0,Resistant
+p12.A11,p25.A12,S,S,S,9,Sensitive
+p12.A11,p25.A12 no MMC,R,O,O,2,Partially Sensitive
+p12.A11,p25.A12 KO,R,R,R,0,Resistant
+p12.A11,p25.A12 KO no MMC,R,R,R,0,Resistant
+p12.A11,P-buffer,R,R,R,0,Resistant
+p6.G2,p21.F9,R,R,O,1,Partially Sensitive
+p6.G2,p21.F9 no MMC,R,R,R,0,Resistant
+p6.G2,p25.C2,R,R,O,1,Partially Sensitive
+p6.G2,p25.C2 no MMC,R,R,R,0,Resistant
+p6.G2,p5.D5,R,R,O,1,Partially Sensitive
+p6.G2,p5.D5 no MMC,R,R,R,0,Resistant
+p6.G2,p26.D6,R,O,O,2,Partially Sensitive
+p6.G2,p26.D6 no MMC,R,R,R,0,Resistant
+p6.G2,p23.B8,R,O,R,1,Partially Sensitive
+p6.G2,p23.B8 no MMC,R,R,R,0,Resistant
+p6.G2,p25.A12,S,S,S,9,Sensitive
+p6.G2,p25.A12 no MMC,R,SC,O,3,Partially Sensitive
+p6.G2,p25.A12 KO,R,R,R,0,Resistant
+p6.G2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.G2,P-buffer,R,R,R,0,Resistant
+p5.H11,p21.F9,R,R,R,0,Resistant
+p5.H11,p21.F9 no MMC,R,R,R,0,Resistant
+p5.H11,p25.C2,R,R,R,0,Resistant
+p5.H11,p25.C2 no MMC,R,R,R,0,Resistant
+p5.H11,p5.D5,R,R,R,0,Resistant
+p5.H11,p5.D5 no MMC,R,R,R,0,Resistant
+p5.H11,p26.D6,R,R,R,0,Resistant
+p5.H11,p26.D6 no MMC,R,R,R,0,Resistant
+p5.H11,p23.B8,R,R,R,0,Resistant
+p5.H11,p23.B8 no MMC,R,R,R,0,Resistant
+p5.H11,p25.A12,R,R,R,0,Resistant
+p5.H11,p25.A12 no MMC,R,R,R,0,Resistant
+p5.H11,p25.A12 KO,R,R,R,0,Resistant
+p5.H11,p25.A12 KO no MMC,R,R,R,0,Resistant
+p5.H11,P-buffer,R,R,R,0,Resistant
+p5.A5,p21.F9,O,R,O,2,Partially Sensitive
+p5.A5,p21.F9 no MMC,R,R,R,0,Resistant
+p5.A5,p25.C2,O,R,O,2,Partially Sensitive
+p5.A5,p25.C2 no MMC,R,R,R,0,Resistant
+p5.A5,p5.D5,O,O,O,3,Partially Sensitive
+p5.A5,p5.D5 no MMC,R,R,R,0,Resistant
+p5.A5,p26.D6,phage,S,phage,NA,
+p5.A5,p26.D6 no MMC,R,R,R,0,Resistant
+p5.A5,p23.B8,O,SC,O,4,Mostly Sensitive
+p5.A5,p23.B8 no MMC,R,R,R,0,Resistant
+p5.A5,p25.A12,R,SC,R,2,Partially Sensitive
+p5.A5,p25.A12 no MMC,R,R,R,0,Resistant
+p5.A5,p25.A12 KO,SC,R,R,2,Partially Sensitive
+p5.A5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p5.A5,P-buffer,R,R,R,0,Resistant
+p24.B5,p21.F9,R,R,O,1,Partially Sensitive
+p24.B5,p21.F9 no MMC,R,R,R,0,Resistant
+p24.B5,p25.C2,R,R,O,1,Partially Sensitive
+p24.B5,p25.C2 no MMC,R,R,R,0,Resistant
+p24.B5,p5.D5,R,O,O,2,Partially Sensitive
+p24.B5,p5.D5 no MMC,R,R,R,0,Resistant
+p24.B5,p26.D6,phage,phage,phage,NA,NA
+p24.B5,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p24.B5,p23.B8,R,SC,O,3,Partially Sensitive
+p24.B5,p23.B8 no MMC,R,R,R,0,Resistant
+p24.B5,p25.A12,S,S,S,9,Sensitive
+p24.B5,p25.A12 no MMC,R,SC,O,3,Partially Sensitive
+p24.B5,p25.A12 KO,R,R,R,0,Resistant
+p24.B5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p24.B5,P-buffer,R,R,R,0,Resistant
+p4.E6,p21.F9,SC,R,SC,4,Mostly Sensitive
+p4.E6,p21.F9 no MMC,R,R,R,0,Resistant
+p4.E6,p25.C2,SC,R,SC,4,Mostly Sensitive
+p4.E6,p25.C2 no MMC,R,R,R,0,Resistant
+p4.E6,p5.D5,SC,R,SC,4,Mostly Sensitive
+p4.E6,p5.D5 no MMC,R,R,R,0,Resistant
+p4.E6,p26.D6,phage,phage,phage,NA,NA
+p4.E6,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p4.E6,p23.B8,SC,R,O,3,Partially Sensitive
+p4.E6,p23.B8 no MMC,R,R,R,0,Resistant
+p4.E6,p25.A12,phage,S,S,9,Sensitive
+p4.E6,p25.A12 no MMC,R,R,O,1,Partially Sensitive
+p4.E6,p25.A12 KO,S,R,R,3,Partially Sensitive
+p4.E6,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.E6,P-buffer,R,R,R,0,Resistant
+p26.E7,p21.F9,R,R,R,0,Resistant
+p26.E7,p21.F9 no MMC,R,R,R,0,Resistant
+p26.E7,p25.C2,R,R,R,0,Resistant
+p26.E7,p25.C2 no MMC,R,R,R,0,Resistant
+p26.E7,p5.D5,R,R,R,0,Resistant
+p26.E7,p5.D5 no MMC,R,R,R,0,Resistant
+p26.E7,p26.D6,R,R,R,0,Resistant
+p26.E7,p26.D6 no MMC,R,R,R,0,Resistant
+p26.E7,p23.B8,R,R,R,0,Resistant
+p26.E7,p23.B8 no MMC,R,R,R,0,Resistant
+p26.E7,p25.A12,S,S,S,9,Sensitive
+p26.E7,p25.A12 no MMC,R,R,O,1,Partially Sensitive
+p26.E7,p25.A12 KO,R,R,R,0,Resistant
+p26.E7,p25.A12 KO no MMC,R,R,R,0,Resistant
+p26.E7,P-buffer,R,R,R,0,Resistant
+p20.G9,p21.F9,R,R,R,0,Resistant
+p20.G9,p21.F9 no MMC,R,R,R,0,Resistant
+p20.G9,p25.C2,R,R,R,0,Resistant
+p20.G9,p25.C2 no MMC,R,R,R,0,Resistant
+p20.G9,p5.D5,R,R,R,0,Resistant
+p20.G9,p5.D5 no MMC,R,R,R,0,Resistant
+p20.G9,p26.D6,phage,phage,phage,NA,NA
+p20.G9,p26.D6 no MMC,R,O,R,1,Partially Sensitive
+p20.G9,p23.B8,R,R,R,0,Resistant
+p20.G9,p23.B8 no MMC,R,R,R,0,Resistant
+p20.G9,p25.A12,S,S,S,9,Sensitive
+p20.G9,p25.A12 no MMC,R,O,R,1,Partially Sensitive
+p20.G9,p25.A12 KO,R,R,R,0,Resistant
+p20.G9,p25.A12 KO no MMC,R,R,R,0,Resistant
+p20.G9,P-buffer,R,R,R,0,Resistant
+p24.H2,p21.F9,R,R,R,0,Resistant
+p24.H2,p21.F9 no MMC,R,R,R,0,Resistant
+p24.H2,p25.C2,R,R,R,0,Resistant
+p24.H2,p25.C2 no MMC,R,R,R,0,Resistant
+p24.H2,p5.D5,R,R,R,0,Resistant
+p24.H2,p5.D5 no MMC,R,R,R,0,Resistant
+p24.H2,p26.D6,R,R,R,0,Resistant
+p24.H2,p26.D6 no MMC,R,R,R,0,Resistant
+p24.H2,p23.B8,R,R,R,0,Resistant
+p24.H2,p23.B8 no MMC,R,R,R,0,Resistant
+p24.H2,p25.A12,R,R,R,0,Resistant
+p24.H2,p25.A12 no MMC,R,R,R,0,Resistant
+p24.H2,p25.A12 KO,R,R,R,0,Resistant
+p24.H2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p24.H2,P-buffer,R,R,R,0,Resistant
+p22.B5,p21.F9,R,R,R,0,Resistant
+p22.B5,p21.F9 no MMC,R,R,R,0,Resistant
+p22.B5,p25.C2,R,R,R,0,Resistant
+p22.B5,p25.C2 no MMC,R,R,R,0,Resistant
+p22.B5,p5.D5,O,R,R,1,Partially Sensitive
+p22.B5,p5.D5 no MMC,R,R,R,0,Resistant
+p22.B5,p26.D6,phage,phage,phage,NA,NA
+p22.B5,p26.D6 no MMC,R,S,S,6,Mostly Sensitive
+p22.B5,p23.B8,R,O,R,1,Partially Sensitive
+p22.B5,p23.B8 no MMC,R,R,R,0,Resistant
+p22.B5,p25.A12,S,S,S,9,Sensitive
+p22.B5,p25.A12 no MMC,R,S,R,3,Partially Sensitive
+p22.B5,p25.A12 KO,SC,R,R,2,Partially Sensitive
+p22.B5,p25.A12 KO no MMC,SC,R,R,2,Partially Sensitive
+p22.B5,P-buffer,R,R,R,0,Resistant
+p4.E5,p21.F9,R,R,R,0,Resistant
+p4.E5,p21.F9 no MMC,R,R,R,0,Resistant
+p4.E5,p25.C2,R,R,R,0,Resistant
+p4.E5,p25.C2 no MMC,R,R,R,0,Resistant
+p4.E5,p5.D5,R,R,R,0,Resistant
+p4.E5,p5.D5 no MMC,R,R,R,0,Resistant
+p4.E5,p26.D6,phage,phage,phage,NA,NA
+p4.E5,p26.D6 no MMC,R,S,S,6,Mostly Sensitive
+p4.E5,p23.B8,O,R,R,1,Partially Sensitive
+p4.E5,p23.B8 no MMC,R,R,R,0,Resistant
+p4.E5,p25.A12,S,S,S,9,Sensitive
+p4.E5,p25.A12 no MMC,R,R,O,1,Partially Sensitive
+p4.E5,p25.A12 KO,R,R,R,0,Resistant
+p4.E5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.E5,P-buffer,R,R,R,0,Resistant
+p21.A8,p21.F9,R,R,R,0,Resistant
+p21.A8,p21.F9 no MMC,R,R,R,0,Resistant
+p21.A8,p25.C2,R,R,R,0,Resistant
+p21.A8,p25.C2 no MMC,R,R,R,0,Resistant
+p21.A8,p5.D5,R,R,R,0,Resistant
+p21.A8,p5.D5 no MMC,R,R,R,0,Resistant
+p21.A8,p26.D6,phage,phage,phage,NA,NA
+p21.A8,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p21.A8,p23.B8,R,R,R,0,Resistant
+p21.A8,p23.B8 no MMC,R,R,R,0,Resistant
+p21.A8,p25.A12,S,S,S,9,Sensitive
+p21.A8,p25.A12 no MMC,R,O,R,1,Partially Sensitive
+p21.A8,p25.A12 KO,R,R,R,0,Resistant
+p21.A8,p25.A12 KO no MMC,R,R,R,0,Resistant
+p21.A8,P-buffer,R,R,R,0,Resistant
+p13.F3,p21.F9,SC,R,R,2,Partially Sensitive
+p13.F3,p21.F9 no MMC,R,R,R,0,Resistant
+p13.F3,p25.C2,SC,R,R,2,Partially Sensitive
+p13.F3,p25.C2 no MMC,R,R,R,0,Resistant
+p13.F3,p5.D5,SC,R,R,2,Partially Sensitive
+p13.F3,p5.D5 no MMC,R,R,R,0,Resistant
+p13.F3,p26.D6,O,R,R,1,Partially Sensitive
+p13.F3,p26.D6 no MMC,R,R,R,0,Resistant
+p13.F3,p23.B8,SC,R,R,2,Partially Sensitive
+p13.F3,p23.B8 no MMC,R,R,R,0,Resistant
+p13.F3,p25.A12,phage,R,R,0,Resistant
+p13.F3,p25.A12 no MMC,R,R,R,0,Resistant
+p13.F3,p25.A12 KO,phage,R,R,0,Resistant
+p13.F3,p25.A12 KO no MMC,R,R,R,0,Resistant
+p13.F3,P-buffer,R,R,R,0,Resistant
+p22.D4,p21.F9,SC,R,S,5,Mostly Sensitive
+p22.D4,p21.F9 no MMC,R,R,R,0,Resistant
+p22.D4,p25.C2,SC,R,S,5,Mostly Sensitive
+p22.D4,p25.C2 no MMC,R,R,R,0,Resistant
+p22.D4,p5.D5,SC,R,S,5,Mostly Sensitive
+p22.D4,p5.D5 no MMC,R,R,R,0,Resistant
+p22.D4,p26.D6,R,R,S,3,Partially Sensitive
+p22.D4,p26.D6 no MMC,R,R,R,0,Resistant
+p22.D4,p23.B8,SC,R,S,5,Mostly Sensitive
+p22.D4,p23.B8 no MMC,R,R,R,0,Resistant
+p22.D4,p25.A12,phage,S,S,6,Mostly Sensitive
+p22.D4,p25.A12 no MMC,R,R,R,0,Resistant
+p22.D4,p25.A12 KO,phage,R,R,0,Resistant
+p22.D4,p25.A12 KO no MMC,R,R,R,0,Resistant
+p22.D4,P-buffer,R,R,R,0,Resistant
+p21.E3,p21.F9,O,R,O,2,Partially Sensitive
+p21.E3,p21.F9 no MMC,R,R,R,0,Resistant
+p21.E3,p25.C2,O,R,O,2,Partially Sensitive
+p21.E3,p25.C2 no MMC,R,R,R,0,Resistant
+p21.E3,p5.D5,O,R,O,2,Partially Sensitive
+p21.E3,p5.D5 no MMC,R,R,R,0,Resistant
+p21.E3,p26.D6,phage,phage,phage,NA,NA
+p21.E3,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p21.E3,p23.B8,O,R,R,1,Partially Sensitive
+p21.E3,p23.B8 no MMC,R,R,R,0,Resistant
+p21.E3,p25.A12,S,S,S,9,Sensitive
+p21.E3,p25.A12 no MMC,R,R,R,0,Resistant
+p21.E3,p25.A12 KO,O,R,R,1,Partially Sensitive
+p21.E3,p25.A12 KO no MMC,R,R,R,0,Resistant
+p21.E3,P-buffer,R,R,R,0,Resistant
+p20.F10,p21.F9,R,R,R,0,Resistant
+p20.F10,p21.F9 no MMC,R,R,R,0,Resistant
+p20.F10,p25.C2,R,R,R,0,Resistant
+p20.F10,p25.C2 no MMC,R,R,R,0,Resistant
+p20.F10,p5.D5,R,R,R,0,Resistant
+p20.F10,p5.D5 no MMC,R,R,R,0,Resistant
+p20.F10,p26.D6,phage,phage,phage,NA,NA
+p20.F10,p26.D6 no MMC,R,R,R,0,Resistant
+p20.F10,p23.B8,R,R,R,0,Resistant
+p20.F10,p23.B8 no MMC,R,R,R,0,Resistant
+p20.F10,p25.A12,S,S,S,9,Sensitive
+p20.F10,p25.A12 no MMC,R,SC,R,2,Partially Sensitive
+p20.F10,p25.A12 KO,R,R,R,0,Resistant
+p20.F10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p20.F10,P-buffer,R,R,R,0,Resistant
+p26.B7,p21.F9,S,R,SC,5,Mostly Sensitive
+p26.B7,p21.F9 no MMC,R,R,R,0,Resistant
+p26.B7,p25.C2,S,R,O,4,Mostly Sensitive
+p26.B7,p25.C2 no MMC,R,R,R,0,Resistant
+p26.B7,p5.D5,S,R,O,4,Mostly Sensitive
+p26.B7,p5.D5 no MMC,R,R,R,0,Resistant
+p26.B7,p26.D6,S,R,O,4,Mostly Sensitive
+p26.B7,p26.D6 no MMC,R,R,R,0,Resistant
+p26.B7,p23.B8,S,R,R,3,Partially Sensitive
+p26.B7,p23.B8 no MMC,R,R,R,0,Resistant
+p26.B7,p25.A12,S,S,S,9,Sensitive
+p26.B7,p25.A12 no MMC,R,SC,O,3,Partially Sensitive
+p26.B7,p25.A12 KO,S,R,R,3,Partially Sensitive
+p26.B7,p25.A12 KO no MMC,R,R,R,0,Resistant
+p26.B7,P-buffer,R,R,R,0,Resistant
+p4.D2,p21.F9,O,R,SC,3,Partially Sensitive
+p4.D2,p21.F9 no MMC,R,R,R,0,Resistant
+p4.D2,p25.C2,O,R,SC,3,Partially Sensitive
+p4.D2,p25.C2 no MMC,R,R,R,0,Resistant
+p4.D2,p5.D5,S,R,S,6,Mostly Sensitive
+p4.D2,p5.D5 no MMC,R,R,R,0,Resistant
+p4.D2,p26.D6,phage,R,phage,NA,
+p4.D2,p26.D6 no MMC,R,R,R,0,Resistant
+p4.D2,p23.B8,S,R,O,4,Mostly Sensitive
+p4.D2,p23.B8 no MMC,R,R,R,0,Resistant
+p4.D2,p25.A12,S,R,O,4,Mostly Sensitive
+p4.D2,p25.A12 no MMC,R,R,R,0,Resistant
+p4.D2,p25.A12 KO,S,R,R,3,Partially Sensitive
+p4.D2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.D2,P-buffer,R,R,R,0,Resistant
+p12.E2,p21.F9,O,O,O,3,Partially Sensitive
+p12.E2,p21.F9 no MMC,R,R,R,0,Resistant
+p12.E2,p25.C2,O,O,O,3,Partially Sensitive
+p12.E2,p25.C2 no MMC,R,R,R,0,Resistant
+p12.E2,p5.D5,S,O,O,5,Mostly Sensitive
+p12.E2,p5.D5 no MMC,R,R,R,0,Resistant
+p12.E2,p26.D6,S,O,O,5,Mostly Sensitive
+p12.E2,p26.D6 no MMC,R,R,R,0,Resistant
+p12.E2,p23.B8,S,O,O,5,Mostly Sensitive
+p12.E2,p23.B8 no MMC,R,R,R,0,Resistant
+p12.E2,p25.A12,S,S,S,9,Sensitive
+p12.E2,p25.A12 no MMC,R,O,R,1,Partially Sensitive
+p12.E2,p25.A12 KO,SC,R,R,2,Partially Sensitive
+p12.E2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p12.E2,P-buffer,R,R,R,0,Resistant
+p13.C1,p21.F9,O,R,R,1,Partially Sensitive
+p13.C1,p21.F9 no MMC,R,R,R,0,Resistant
+p13.C1,p25.C2,O,R,R,1,Partially Sensitive
+p13.C1,p25.C2 no MMC,R,R,R,0,Resistant
+p13.C1,p5.D5,SC,R,R,2,Partially Sensitive
+p13.C1,p5.D5 no MMC,R,R,R,0,Resistant
+p13.C1,p26.D6,SC,phage,phage,NA,
+p13.C1,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p13.C1,p23.B8,SC,R,R,2,Partially Sensitive
+p13.C1,p23.B8 no MMC,R,R,R,0,Resistant
+p13.C1,p25.A12,SC,S,S,8,Sensitive
+p13.C1,p25.A12 no MMC,R,R,R,0,Resistant
+p13.C1,p25.A12 KO,O,R,R,1,Partially Sensitive
+p13.C1,p25.A12 KO no MMC,R,R,R,0,Resistant
+p13.C1,P-buffer,R,R,R,0,Resistant
+p4.H3,p21.F9,R,R,R,0,Resistant
+p4.H3,p21.F9 no MMC,R,R,R,0,Resistant
+p4.H3,p25.C2,R,R,R,0,Resistant
+p4.H3,p25.C2 no MMC,R,R,R,0,Resistant
+p4.H3,p5.D5,R,R,R,0,Resistant
+p4.H3,p5.D5 no MMC,R,R,R,0,Resistant
+p4.H3,p26.D6,R,R,R,0,Resistant
+p4.H3,p26.D6 no MMC,R,R,R,0,Resistant
+p4.H3,p23.B8,R,R,R,0,Resistant
+p4.H3,p23.B8 no MMC,R,R,R,0,Resistant
+p4.H3,p25.A12,R,R,R,0,Resistant
+p4.H3,p25.A12 no MMC,R,R,R,0,Resistant
+p4.H3,p25.A12 KO,R,R,R,0,Resistant
+p4.H3,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.H3,P-buffer,R,R,R,0,Resistant
+p4.C5,p21.F9,R,R,R,0,Resistant
+p4.C5,p21.F9 no MMC,R,R,R,0,Resistant
+p4.C5,p25.C2,R,R,R,0,Resistant
+p4.C5,p25.C2 no MMC,R,R,R,0,Resistant
+p4.C5,p5.D5,R,R,R,0,Resistant
+p4.C5,p5.D5 no MMC,R,R,R,0,Resistant
+p4.C5,p26.D6,R,R,R,0,Resistant
+p4.C5,p26.D6 no MMC,R,R,R,0,Resistant
+p4.C5,p23.B8,R,R,R,0,Resistant
+p4.C5,p23.B8 no MMC,R,R,R,0,Resistant
+p4.C5,p25.A12,R,R,R,0,Resistant
+p4.C5,p25.A12 no MMC,R,R,R,0,Resistant
+p4.C5,p25.A12 KO,R,R,R,0,Resistant
+p4.C5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.C5,P-buffer,R,R,R,0,Resistant
+p6.G3,p21.F9,R,R,R,0,Resistant
+p6.G3,p21.F9 no MMC,R,R,R,0,Resistant
+p6.G3,p25.C2,R,R,R,0,Resistant
+p6.G3,p25.C2 no MMC,R,R,R,0,Resistant
+p6.G3,p5.D5,R,R,R,0,Resistant
+p6.G3,p5.D5 no MMC,R,R,R,0,Resistant
+p6.G3,p26.D6,R,R,R,0,Resistant
+p6.G3,p26.D6 no MMC,R,R,R,0,Resistant
+p6.G3,p23.B8,R,R,R,0,Resistant
+p6.G3,p23.B8 no MMC,R,R,R,0,Resistant
+p6.G3,p25.A12,R,R,R,0,Resistant
+p6.G3,p25.A12 no MMC,R,R,R,0,Resistant
+p6.G3,p25.A12 KO,R,R,R,0,Resistant
+p6.G3,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.G3,P-buffer,R,R,R,0,Resistant
+p9.H10,p21.F9,R,R,R,0,Resistant
+p9.H10,p21.F9 no MMC,R,R,R,0,Resistant
+p9.H10,p25.C2,R,R,R,0,Resistant
+p9.H10,p25.C2 no MMC,R,R,R,0,Resistant
+p9.H10,p5.D5,R,R,R,0,Resistant
+p9.H10,p5.D5 no MMC,R,R,R,0,Resistant
+p9.H10,p26.D6,R,R,R,0,Resistant
+p9.H10,p26.D6 no MMC,R,R,R,0,Resistant
+p9.H10,p23.B8,R,R,R,0,Resistant
+p9.H10,p23.B8 no MMC,R,R,R,0,Resistant
+p9.H10,p25.A12,R,R,R,0,Resistant
+p9.H10,p25.A12 no MMC,R,R,R,0,Resistant
+p9.H10,p25.A12 KO,R,R,R,0,Resistant
+p9.H10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p9.H10,P-buffer,R,R,R,0,Resistant
+p4.A8,p21.F9,R,R,R,0,Resistant
+p4.A8,p21.F9 no MMC,R,R,R,0,Resistant
+p4.A8,p25.C2,R,R,R,0,Resistant
+p4.A8,p25.C2 no MMC,R,R,R,0,Resistant
+p4.A8,p5.D5,R,R,R,0,Resistant
+p4.A8,p5.D5 no MMC,R,R,R,0,Resistant
+p4.A8,p26.D6,R,R,R,0,Resistant
+p4.A8,p26.D6 no MMC,R,R,R,0,Resistant
+p4.A8,p23.B8,R,R,R,0,Resistant
+p4.A8,p23.B8 no MMC,R,R,R,0,Resistant
+p4.A8,p25.A12,R,R,R,0,Resistant
+p4.A8,p25.A12 no MMC,R,R,R,0,Resistant
+p4.A8,p25.A12 KO,R,R,R,0,Resistant
+p4.A8,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.A8,P-buffer,R,R,R,0,Resistant
+p26.F6,p21.F9,R,R,R,0,Resistant
+p26.F6,p21.F9 no MMC,R,R,R,0,Resistant
+p26.F6,p25.C2,R,R,R,0,Resistant
+p26.F6,p25.C2 no MMC,R,R,R,0,Resistant
+p26.F6,p5.D5,R,R,R,0,Resistant
+p26.F6,p5.D5 no MMC,R,R,R,0,Resistant
+p26.F6,p26.D6,R,R,R,0,Resistant
+p26.F6,p26.D6 no MMC,R,R,R,0,Resistant
+p26.F6,p23.B8,R,R,R,0,Resistant
+p26.F6,p23.B8 no MMC,R,R,R,0,Resistant
+p26.F6,p25.A12,R,R,R,0,Resistant
+p26.F6,p25.A12 no MMC,R,R,R,0,Resistant
+p26.F6,p25.A12 KO,R,R,R,0,Resistant
+p26.F6,p25.A12 KO no MMC,R,R,R,0,Resistant
+p26.F6,P-buffer,R,R,R,0,Resistant
+p6.F1,p21.F9,R,R,R,0,Resistant
+p6.F1,p21.F9 no MMC,R,R,R,0,Resistant
+p6.F1,p25.C2,R,R,R,0,Resistant
+p6.F1,p25.C2 no MMC,R,R,R,0,Resistant
+p6.F1,p5.D5,R,R,R,0,Resistant
+p6.F1,p5.D5 no MMC,R,R,R,0,Resistant
+p6.F1,p26.D6,R,R,R,0,Resistant
+p6.F1,p26.D6 no MMC,R,R,R,0,Resistant
+p6.F1,p23.B8,R,R,R,0,Resistant
+p6.F1,p23.B8 no MMC,R,R,R,0,Resistant
+p6.F1,p25.A12,R,R,R,0,Resistant
+p6.F1,p25.A12 no MMC,R,R,R,0,Resistant
+p6.F1,p25.A12 KO,R,R,R,0,Resistant
+p6.F1,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.F1,P-buffer,R,R,R,0,Resistant
+p4.D11,p21.F9,R,R,R,0,Resistant
+p4.D11,p21.F9 no MMC,R,R,R,0,Resistant
+p4.D11,p25.C2,R,R,R,0,Resistant
+p4.D11,p25.C2 no MMC,R,R,R,0,Resistant
+p4.D11,p5.D5,R,R,R,0,Resistant
+p4.D11,p5.D5 no MMC,R,R,R,0,Resistant
+p4.D11,p26.D6,R,R,R,0,Resistant
+p4.D11,p26.D6 no MMC,R,R,R,0,Resistant
+p4.D11,p23.B8,R,R,R,0,Resistant
+p4.D11,p23.B8 no MMC,R,R,R,0,Resistant
+p4.D11,p25.A12,R,R,R,0,Resistant
+p4.D11,p25.A12 no MMC,R,R,R,0,Resistant
+p4.D11,p25.A12 KO,R,R,R,0,Resistant
+p4.D11,p25.A12 KO no MMC,R,R,R,0,Resistant
+p4.D11,P-buffer,R,R,R,0,Resistant
+p20.B10,p21.F9,R,R,R,0,Resistant
+p20.B10,p21.F9 no MMC,R,R,R,0,Resistant
+p20.B10,p25.C2,R,R,R,0,Resistant
+p20.B10,p25.C2 no MMC,R,R,R,0,Resistant
+p20.B10,p5.D5,R,R,R,0,Resistant
+p20.B10,p5.D5 no MMC,R,R,R,0,Resistant
+p20.B10,p26.D6,R,R,R,0,Resistant
+p20.B10,p26.D6 no MMC,R,R,R,0,Resistant
+p20.B10,p23.B8,R,R,R,0,Resistant
+p20.B10,p23.B8 no MMC,R,R,R,0,Resistant
+p20.B10,p25.A12,R,R,R,0,Resistant
+p20.B10,p25.A12 no MMC,R,R,R,0,Resistant
+p20.B10,p25.A12 KO,R,R,R,0,Resistant
+p20.B10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p20.B10,P-buffer,R,R,R,0,Resistant
+p7.F2,p21.F9,R,R,R,0,Resistant
+p7.F2,p21.F9 no MMC,R,R,R,0,Resistant
+p7.F2,p25.C2,R,R,R,0,Resistant
+p7.F2,p25.C2 no MMC,R,R,R,0,Resistant
+p7.F2,p5.D5,R,R,R,0,Resistant
+p7.F2,p5.D5 no MMC,R,R,R,0,Resistant
+p7.F2,p26.D6,R,R,R,0,Resistant
+p7.F2,p26.D6 no MMC,R,R,R,0,Resistant
+p7.F2,p23.B8,R,R,R,0,Resistant
+p7.F2,p23.B8 no MMC,R,R,R,0,Resistant
+p7.F2,p25.A12,R,R,R,0,Resistant
+p7.F2,p25.A12 no MMC,R,R,R,0,Resistant
+p7.F2,p25.A12 KO,R,R,R,0,Resistant
+p7.F2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p7.F2,P-buffer,R,R,R,0,Resistant
+p6.E9,p21.F9,R,R,R,0,Resistant
+p6.E9,p21.F9 no MMC,R,R,R,0,Resistant
+p6.E9,p25.C2,R,R,R,0,Resistant
+p6.E9,p25.C2 no MMC,R,R,R,0,Resistant
+p6.E9,p5.D5,R,R,R,0,Resistant
+p6.E9,p5.D5 no MMC,R,R,R,0,Resistant
+p6.E9,p26.D6,R,R,R,0,Resistant
+p6.E9,p26.D6 no MMC,R,R,R,0,Resistant
+p6.E9,p23.B8,R,R,R,0,Resistant
+p6.E9,p23.B8 no MMC,R,R,R,0,Resistant
+p6.E9,p25.A12,R,R,R,0,Resistant
+p6.E9,p25.A12 no MMC,R,R,R,0,Resistant
+p6.E9,p25.A12 KO,R,R,R,0,Resistant
+p6.E9,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.E9,P-buffer,R,R,R,0,Resistant
+p27.C5,p21.F9,R,R,R,0,Resistant
+p27.C5,p21.F9 no MMC,R,R,R,0,Resistant
+p27.C5,p25.C2,R,R,R,0,Resistant
+p27.C5,p25.C2 no MMC,R,R,R,0,Resistant
+p27.C5,p5.D5,R,R,R,0,Resistant
+p27.C5,p5.D5 no MMC,R,R,R,0,Resistant
+p27.C5,p26.D6,R,R,R,0,Resistant
+p27.C5,p26.D6 no MMC,R,R,R,0,Resistant
+p27.C5,p23.B8,R,R,R,0,Resistant
+p27.C5,p23.B8 no MMC,R,R,R,0,Resistant
+p27.C5,p25.A12,R,R,R,0,Resistant
+p27.C5,p25.A12 no MMC,R,R,R,0,Resistant
+p27.C5,p25.A12 KO,R,R,R,0,Resistant
+p27.C5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p27.C5,P-buffer,R,R,R,0,Resistant
+p13.F1,p21.F9,R,R,R,0,Resistant
+p13.F1,p21.F9 no MMC,R,R,R,0,Resistant
+p13.F1,p25.C2,R,R,R,0,Resistant
+p13.F1,p25.C2 no MMC,R,R,R,0,Resistant
+p13.F1,p5.D5,O,R,R,1,Partially Sensitive
+p13.F1,p5.D5 no MMC,R,R,R,0,Resistant
+p13.F1,p26.D6,R,R,R,0,Resistant
+p13.F1,p26.D6 no MMC,R,R,R,0,Resistant
+p13.F1,p23.B8,R,R,R,0,Resistant
+p13.F1,p23.B8 no MMC,R,R,R,0,Resistant
+p13.F1,p25.A12,R,R,R,0,Resistant
+p13.F1,p25.A12 no MMC,R,R,R,0,Resistant
+p13.F1,p25.A12 KO,R,R,R,0,Resistant
+p13.F1,p25.A12 KO no MMC,R,R,R,0,Resistant
+p13.F1,P-buffer,R,R,R,0,Resistant
+p12.H7,p21.F9,R,R,R,0,Resistant
+p12.H7,p21.F9 no MMC,R,R,R,0,Resistant
+p12.H7,p25.C2,R,R,R,0,Resistant
+p12.H7,p25.C2 no MMC,R,R,R,0,Resistant
+p12.H7,p5.D5,R,R,R,0,Resistant
+p12.H7,p5.D5 no MMC,R,R,R,0,Resistant
+p12.H7,p26.D6,R,R,R,0,Resistant
+p12.H7,p26.D6 no MMC,R,R,R,0,Resistant
+p12.H7,p23.B8,R,R,R,0,Resistant
+p12.H7,p23.B8 no MMC,R,R,R,0,Resistant
+p12.H7,p25.A12,R,R,R,0,Resistant
+p12.H7,p25.A12 no MMC,R,R,R,0,Resistant
+p12.H7,p25.A12 KO,R,R,R,0,Resistant
+p12.H7,p25.A12 KO no MMC,R,R,R,0,Resistant
+p12.H7,P-buffer,R,R,R,0,Resistant
+p6.B5,p21.F9,R,R,R,0,Resistant
+p6.B5,p21.F9 no MMC,R,R,R,0,Resistant
+p6.B5,p25.C2,R,R,R,0,Resistant
+p6.B5,p25.C2 no MMC,R,R,R,0,Resistant
+p6.B5,p5.D5,R,R,R,0,Resistant
+p6.B5,p5.D5 no MMC,R,R,R,0,Resistant
+p6.B5,p26.D6,R,R,R,0,Resistant
+p6.B5,p26.D6 no MMC,R,R,R,0,Resistant
+p6.B5,p23.B8,R,R,R,0,Resistant
+p6.B5,p23.B8 no MMC,R,R,R,0,Resistant
+p6.B5,p25.A12,R,R,R,0,Resistant
+p6.B5,p25.A12 no MMC,R,R,R,0,Resistant
+p6.B5,p25.A12 KO,R,R,R,0,Resistant
+p6.B5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.B5,P-buffer,R,R,R,0,Resistant
+p5.F2,p21.F9,R,R,R,0,Resistant
+p5.F2,p21.F9 no MMC,R,O,R,1,Partially Sensitive
+p5.F2,p25.C2,R,R,R,0,Resistant
+p5.F2,p25.C2 no MMC,R,R,R,0,Resistant
+p5.F2,p5.D5,R,R,R,0,Resistant
+p5.F2,p5.D5 no MMC,R,R,R,0,Resistant
+p5.F2,p26.D6,R,O,R,1,Partially Sensitive
+p5.F2,p26.D6 no MMC,R,R,R,0,Resistant
+p5.F2,p23.B8,R,O,R,1,Partially Sensitive
+p5.F2,p23.B8 no MMC,R,R,R,0,Resistant
+p5.F2,p25.A12,R,O,R,1,Partially Sensitive
+p5.F2,p25.A12 no MMC,R,R,R,0,Resistant
+p5.F2,p25.A12 KO,R,R,R,0,Resistant
+p5.F2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p5.F2,P-buffer,R,R,R,0,Resistant
+p13.D5,p21.F9,R,R,R,0,Resistant
+p13.D5,p21.F9 no MMC,R,R,R,0,Resistant
+p13.D5,p25.C2,R,R,R,0,Resistant
+p13.D5,p25.C2 no MMC,R,R,R,0,Resistant
+p13.D5,p5.D5,R,R,R,0,Resistant
+p13.D5,p5.D5 no MMC,R,R,R,0,Resistant
+p13.D5,p26.D6,R,R,R,0,Resistant
+p13.D5,p26.D6 no MMC,R,R,R,0,Resistant
+p13.D5,p23.B8,R,R,R,0,Resistant
+p13.D5,p23.B8 no MMC,R,R,R,0,Resistant
+p13.D5,p25.A12,R,R,R,0,Resistant
+p13.D5,p25.A12 no MMC,R,R,R,0,Resistant
+p13.D5,p25.A12 KO,R,R,R,0,Resistant
+p13.D5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p13.D5,P-buffer,R,R,R,0,Resistant
+p8.D11,p21.F9,R,R,R,0,Resistant
+p8.D11,p21.F9 no MMC,R,R,R,0,Resistant
+p8.D11,p25.C2,R,R,R,0,Resistant
+p8.D11,p25.C2 no MMC,R,R,R,0,Resistant
+p8.D11,p5.D5,R,R,R,0,Resistant
+p8.D11,p5.D5 no MMC,R,R,R,0,Resistant
+p8.D11,p26.D6,R,R,R,0,Resistant
+p8.D11,p26.D6 no MMC,R,R,R,0,Resistant
+p8.D11,p23.B8,R,R,R,0,Resistant
+p8.D11,p23.B8 no MMC,R,R,R,0,Resistant
+p8.D11,p25.A12,R,R,R,0,Resistant
+p8.D11,p25.A12 no MMC,R,R,R,0,Resistant
+p8.D11,p25.A12 KO,R,R,R,0,Resistant
+p8.D11,p25.A12 KO no MMC,R,R,R,0,Resistant
+p8.D11,P-buffer,R,R,R,0,Resistant
+p8.G2,p21.F9,R,R,R,0,Resistant
+p8.G2,p21.F9 no MMC,R,R,R,0,Resistant
+p8.G2,p25.C2,R,R,R,0,Resistant
+p8.G2,p25.C2 no MMC,R,R,R,0,Resistant
+p8.G2,p5.D5,S,R,SC,5,Mostly Sensitive
+p8.G2,p5.D5 no MMC,R,R,R,0,Resistant
+p8.G2,p26.D6,S,O,R,4,Mostly Sensitive
+p8.G2,p26.D6 no MMC,R,R,R,0,Resistant
+p8.G2,p23.B8,S,O,R,4,Mostly Sensitive
+p8.G2,p23.B8 no MMC,R,R,R,0,Resistant
+p8.G2,p25.A12,S,SC,SC,7,Mostly Sensitive
+p8.G2,p25.A12 no MMC,R,R,R,0,Resistant
+p8.G2,p25.A12 KO,O,R,R,0,Resistant
+p8.G2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p8.G2,P-buffer,R,R,R,0,Resistant
+p3.G11,p21.F9,R,R,R,0,Resistant
+p3.G11,p21.F9 no MMC,R,R,R,0,Resistant
+p3.G11,p25.C2,R,R,R,0,Resistant
+p3.G11,p25.C2 no MMC,R,R,R,0,Resistant
+p3.G11,p5.D5,R,R,R,0,Resistant
+p3.G11,p5.D5 no MMC,R,R,R,0,Resistant
+p3.G11,p26.D6,R,R,R,0,Resistant
+p3.G11,p26.D6 no MMC,R,R,R,0,Resistant
+p3.G11,p23.B8,R,R,R,0,Resistant
+p3.G11,p23.B8 no MMC,R,R,R,0,Resistant
+p3.G11,p25.A12,R,R,R,0,Resistant
+p3.G11,p25.A12 no MMC,R,R,R,0,Resistant
+p3.G11,p25.A12 KO,R,R,R,0,Resistant
+p3.G11,p25.A12 KO no MMC,R,R,R,0,Resistant
+p3.G11,P-buffer,R,R,R,0,Resistant
+DC3000,p21.F9,R,R,S,3,Partially Sensitive
+DC3000,p21.F9 no MMC,R,R,R,0,Resistant
+DC3000,p25.C2,R,R,R,0,Resistant
+DC3000,p25.C2 no MMC,R,R,R,0,Resistant
+DC3000,p5.D5,R,R,O,1,Partially Sensitive
+DC3000,p5.D5 no MMC,R,R,R,0,Resistant
+DC3000,p26.D6,R,O,phage,NA,
+DC3000,p26.D6 no MMC,R,O,O,2,Partially Sensitive
+DC3000,p23.B8,R,R,R,0,Resistant
+DC3000,p23.B8 no MMC,R,R,R,0,Resistant
+DC3000,p25.A12,R,S,S,6,Mostly Sensitive
+DC3000,p25.A12 no MMC,R,O,SC,3,Partially Sensitive
+DC3000,p25.A12 KO,R,R,R,0,Resistant
+DC3000,p25.A12 KO no MMC,R,R,R,0,Resistant
+DC3000,P-buffer,R,R,R,0,Resistant
+p8.H7,p21.F9,R,R,S,3,Partially Sensitive
+p8.H7,p21.F9 no MMC,R,R,S,3,Partially Sensitive
+p8.H7,p25.C2,R,R,S,3,Partially Sensitive
+p8.H7,p25.C2 no MMC,R,R,S,3,Partially Sensitive
+p8.H7,p5.D5,R,R,S,3,Partially Sensitive
+p8.H7,p5.D5 no MMC,R,R,S,3,Partially Sensitive
+p8.H7,p26.D6,R,O,S,4,Mostly Sensitive
+p8.H7,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p8.H7,p23.B8,R,O,S,4,Mostly Sensitive
+p8.H7,p23.B8 no MMC,R,R,S,3,Partially Sensitive
+p8.H7,p25.A12,R,O,S,4,Mostly Sensitive
+p8.H7,p25.A12 no MMC,R,R,S,3,Partially Sensitive
+p8.H7,p25.A12 KO,R,R,R,0,Resistant
+p8.H7,p25.A12 KO no MMC,R,R,R,0,Resistant
+p8.H7,P-buffer,R,R,R,0,Resistant
+p12.F2,p21.F9,SC,R,S,5,Mostly Sensitive
+p12.F2,p21.F9 no MMC,R,R,R,0,Resistant
+p12.F2,p25.C2,SC,R,S,5,Mostly Sensitive
+p12.F2,p25.C2 no MMC,R,R,R,0,Resistant
+p12.F2,p5.D5,SC,R,S,5,Mostly Sensitive
+p12.F2,p5.D5 no MMC,R,R,R,0,Resistant
+p12.F2,p26.D6,phage,phage,phage,NA,
+p12.F2,p26.D6 no MMC,R,R,S,3,Partially Sensitive
+p12.F2,p23.B8,SC,R,O,3,Partially Sensitive
+p12.F2,p23.B8 no MMC,R,R,R,0,Resistant
+p12.F2,p25.A12,phage,S,S,6,Mostly Sensitive
+p12.F2,p25.A12 no MMC,R,O,O,2,Partially Sensitive
+p12.F2,p25.A12 KO,SC,R,R,2,Partially Sensitive
+p12.F2,p25.A12 KO no MMC,R,R,R,0,Resistant
+p12.F2,P-buffer,R,R,R,0,Resistant
+p12.A9,p21.F9,R,R,O,1,Partially Sensitive
+p12.A9,p21.F9 no MMC,R,R,R,0,Resistant
+p12.A9,p25.C2,R,R,O,1,Partially Sensitive
+p12.A9,p25.C2 no MMC,R,R,R,0,Resistant
+p12.A9,p5.D5,R,R,O,1,Partially Sensitive
+p12.A9,p5.D5 no MMC,R,R,O,1,Partially Sensitive
+p12.A9,p26.D6,R,R,O,1,Partially Sensitive
+p12.A9,p26.D6 no MMC,R,R,O,1,Partially Sensitive
+p12.A9,p23.B8,R,R,R,0,Resistant
+p12.A9,p23.B8 no MMC,R,R,O,1,Partially Sensitive
+p12.A9,p25.A12,R,R,R,0,Resistant
+p12.A9,p25.A12 no MMC,R,R,R,0,Resistant
+p12.A9,p25.A12 KO,R,R,R,0,Resistant
+p12.A9,p25.A12 KO no MMC,R,R,R,0,Resistant
+p12.A9,P-buffer,R,R,R,0,Resistant
+p8.G10,p21.F9,R,R,R,0,Resistant
+p8.G10,p21.F9 no MMC,R,R,R,0,Resistant
+p8.G10,p25.C2,R,R,R,0,Resistant
+p8.G10,p25.C2 no MMC,R,R,R,0,Resistant
+p8.G10,p5.D5,R,R,R,0,Resistant
+p8.G10,p5.D5 no MMC,R,R,R,0,Resistant
+p8.G10,p26.D6,R,R,R,0,Resistant
+p8.G10,p26.D6 no MMC,R,R,R,0,Resistant
+p8.G10,p23.B8,R,R,R,0,Resistant
+p8.G10,p23.B8 no MMC,R,R,R,0,Resistant
+p8.G10,p25.A12,R,R,R,0,Resistant
+p8.G10,p25.A12 no MMC,R,R,R,0,Resistant
+p8.G10,p25.A12 KO,R,R,R,0,Resistant
+p8.G10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p8.G10,P-buffer,R,R,R,0,Resistant
+p6.D10,p21.F9,R,R,R,0,Resistant
+p6.D10,p21.F9 no MMC,R,R,R,0,Resistant
+p6.D10,p25.C2,R,R,R,0,Resistant
+p6.D10,p25.C2 no MMC,R,R,R,0,Resistant
+p6.D10,p5.D5,R,R,R,0,Resistant
+p6.D10,p5.D5 no MMC,R,R,R,0,Resistant
+p6.D10,p26.D6,R,R,R,0,Resistant
+p6.D10,p26.D6 no MMC,R,R,R,0,Resistant
+p6.D10,p23.B8,R,R,R,0,Resistant
+p6.D10,p23.B8 no MMC,R,R,R,0,Resistant
+p6.D10,p25.A12,R,R,R,0,Resistant
+p6.D10,p25.A12 no MMC,R,R,R,0,Resistant
+p6.D10,p25.A12 KO,R,R,R,0,Resistant
+p6.D10,p25.A12 KO no MMC,R,R,R,0,Resistant
+p6.D10,P-buffer,R,R,R,0,Resistant
+p23.A5,p21.F9,O,R,R,1,Partially Sensitive
+p23.A5,p21.F9 no MMC,R,R,R,0,Resistant
+p23.A5,p25.C2,O,O,R,2,Partially Sensitive
+p23.A5,p25.C2 no MMC,R,R,R,0,Resistant
+p23.A5,p5.D5,SC,O,R,3,Partially Sensitive
+p23.A5,p5.D5 no MMC,R,R,R,0,Resistant
+p23.A5,p26.D6,SC,O,R,3,Partially Sensitive
+p23.A5,p26.D6 no MMC,R,R,R,0,Resistant
+p23.A5,p23.B8,SC,O,R,3,Partially Sensitive
+p23.A5,p23.B8 no MMC,R,R,R,0,Resistant
+p23.A5,p25.A12,SC,O,R,3,Partially Sensitive
+p23.A5,p25.A12 no MMC,R,R,R,0,Resistant
+p23.A5,p25.A12 KO,O,R,R,1,Partially Sensitive
+p23.A5,p25.A12 KO no MMC,R,R,R,0,Resistant
+p23.A5,P-buffer,R,R,R,0,Resistant
+p23.B4,p21.F9,S,S,O,7,Sensitive
+p23.B4,p21.F9 no MMC,R,S,R,3,Partially Sensitive
+p23.B4,p25.C2,S,S,O,7,Sensitive
+p23.B4,p25.C2 no MMC,R,R,R,0,Resistant
+p23.B4,p5.D5,S,S,O,7,Sensitive
+p23.B4,p5.D5 no MMC,R,SC,R,2,Partially Sensitive
+p23.B4,p26.D6,S,S,O,7,Sensitive
+p23.B4,p26.D6 no MMC,R,SC,R,2,Partially Sensitive
+p23.B4,p23.B8,S,S,O,7,Sensitive
+p23.B4,p23.B8 no MMC,R,SC,R,2,Partially Sensitive
+p23.B4,p25.A12,S,S,R,6,Mostly Sensitive
+p23.B4,p25.A12 no MMC,R,R,R,0,Resistant
+p23.B4,p25.A12 KO,S,R,R,3,Partially Sensitive
+p23.B4,p25.A12 KO no MMC,R,R,R,0,Resistant
+p23.B4,P-buffer,R,R,R,0,Resistant
+p23.B8,p21.F9,S,S,R,6,Mostly Sensitive
+p23.B8,p21.F9 no MMC,S,S,R,6,Mostly Sensitive
+p23.B8,p25.C2,S,S,R,6,Mostly Sensitive
+p23.B8,p25.C2 no MMC,R,SC,R,2,Partially Sensitive
+p23.B8,p5.D5,S,S,R,6,Mostly Sensitive
+p23.B8,p5.D5 no MMC,S,S,R,6,Mostly Sensitive
+p23.B8,p26.D6,S,S,R,6,Mostly Sensitive
+p23.B8,p26.D6 no MMC,S,S,R,6,Mostly Sensitive
+p23.B8,p23.B8,S,S,R,6,Mostly Sensitive
+p23.B8,p23.B8 no MMC,R,S,R,3,Partially Sensitive
+p23.B8,p25.A12,S,S,S,9,Sensitive
+p23.B8,p25.A12 no MMC,S,SC,O,6,Mostly Sensitive
+p8.C7,p21.F9,NA,O,S,4,Mostly Sensitive
+p8.C7,p21.F9 no MMC,NA,O,S,4,Mostly Sensitive
+p8.C7,p25.C2,NA,O,S,4,Mostly Sensitive
+p8.C7,p25.C2 no MMC,NA,R,S,3,Partially Sensitive
+p8.C7,p5.D5,NA,SC,S,5,Mostly Sensitive
+p8.C7,p5.D5 no MMC,NA,O,S,4,Mostly Sensitive
+p8.C7,p26.D6,NA,SC,S,5,Mostly Sensitive
+p8.C7,p26.D6 no MMC,NA,R,S,3,Partially Sensitive
+p8.C7,p23.B8,NA,S,S,6,Mostly Sensitive
+p8.C7,p23.B8 no MMC,NA,R,S,3,Partially Sensitive
+p8.C7,p25.A12,NA,S,S,6,Mostly Sensitive
+p8.C7,p25.A12 no MMC,NA,R,S,3,Partially Sensitive
+p8.C7,p25.A12 KO,NA,R,R,0,Resistant
+p8.C7,p25.A12 KO no MMC,NA,R,R,0,Resistant
+p8.C7,P-buffer,NA,R,R,0,Resistant

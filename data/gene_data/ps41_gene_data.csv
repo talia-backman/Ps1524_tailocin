@@ -1,0 +1,817 @@
+molecule,gene,start,end,strand,direction
+84.A,trpG,22677,23275,forward,+
+84.A,Spanin,21772,22281,forward,+
+84.A,Putative chitinase,21230,21775,forward,+
+84.A,Hypothetical protein,20202,21206,forward,+
+84.A,Tail fiber assembly protein,19553,20065,forward,+
+84.A,Putative tail fiber gene,17740,19542,forward,+
+84.A,Hypothetical protein,17130,17729,forward,+
+84.A,Baseplate J-like protein,16102,17142,forward,+
+84.A,Phage protein GP46,15714,16112,forward,+
+84.A,Phage protein GP45,15205,15714,forward,+
+84.A,Baseplate hub,14102,15208,forward,+
+84.A,DNA circularization protein,12613,14106,forward,+
+84.A,Tape measure,9957,12616,forward,+
+84.A,Phage tail assembly chaperone,9661,9957,forward,+
+84.A,Tail tube,9317,9664,forward,+
+84.A,Tail sheath,7753,9249,forward,+
+84.A,Hypothetical protein,7549,7734,forward,+
+84.A,Hypothetical protein,6962,7552,forward,+
+84.A,Hypothetical protein,6537,6875,forward,+
+84.A,Hypothetical protein,6167,6556,forward,+
+84.A,Hypothetical protein,5862,5425,forward,+
+84.A,LexA repressor,5249,4638,reverse,-
+84.A,Hypothetical protein,4489,4232,reverse,-
+84.A,Hypothetical protein,4321,4139,reverse,-
+84.A,Bacterial regulation genes,4092,3850,reverse,-
+84.A,Bacterial regulation genes,1806,3737,reverse,-
+84.A,Hypothetical protein,1538,1627,forward,+
+84.A,trpE,1,1481,forward,+
+86.A,trpE,1,1482,forward,+
+86.A,Bacterial regulation genes,3557,1626,reverse,-
+86.A,Bacterial regulation genes,3913,3671,reverse,-
+86.A,Hypothetical protein,4142,3960,reverse,-
+86.A,Hypothetical protein,4488,4231,reverse,-
+86.A,LexA repressor,5248,4637,reverse,-
+86.A,Hypothetical protein,5424,5861,forward,+
+86.A,Hypothetical protein,6166,6555,forward,+
+86.A,Hypothetical protein,6536,6874,forward,+
+86.A,Hypothetical protein,6961,7551,forward,+
+86.A,Hypothetical protein,7548,7733,forward,+
+86.A,Tail sheath,7752,9248,forward,+
+86.A,Tail tube,9316,9663,forward,+
+86.A,Hypothetical protein,9660,9956,forward,+
+86.A,Phage tail assembly chaperone,10062,9967,reverse,-
+86.A,Tape measure,10087,12615,forward,+
+86.A,DNA circularization protein,12612,14105,forward,+
+86.A,Baseplate hub,14109,15215,forward,+
+86.A,Phage protein GP45,15212,15721,forward,+
+86.A,Phage protein GP46,15721,16119,forward,+
+86.A,Baseplate J-like protein,16109,17149,forward,+
+86.A,Hypothetical protein,17137,17736,forward,+
+86.A,Putative tail fiber gene,17747,18991,forward,+
+86.A,Hypothetical protein,19002,19430,forward,+
+86.A,Tail fiber assembly protein,19670,20167,forward,+
+86.A,Hypothetical protein,20484,21488,forward,+
+86.A,Putative chitinase,21512,22057,forward,+
+86.A,Spanin,22054,22563,forward,+
+86.A,trpG,22959,23558,forward,+
+85.A,trpG,23004,23603,forward,+
+85.A,Spanin,22099,22608,forward,+
+85.A,Putative chitinase,21557,22102,forward,+
+85.A,Hypothetical protein,20529,21533,forward,+
+85.A,Tail fiber assembly protein,19715,20212,forward,+
+85.A,Hypothetical protein,19047,19475,forward,+
+85.A,Putative tail fiber gene,17792,19036,forward,+
+85.A,Hypothetical protein,17182,17781,forward,+
+85.A,Baseplate J-like protein,16154,17194,forward,+
+85.A,Phage protein GP46,15766,16164,forward,+
+85.A,Phage protein GP45,15257,15766,forward,+
+85.A,Baseplate hub,14154,15260,forward,+
+85.A,DNA circularization protein,12657,14150,forward,+
+85.A,Tape measure,10132,12660,forward,+
+85.A,Hypothetical protein,10012,10107,reverse,-
+85.A,Phage tail assembly chaperone,9705,10001,forward,+
+85.A,Tail tube,9361,9708,forward,+
+85.A,Tail sheath,7797,9293,forward,+
+85.A,Hypothetical protein,7593,7778,forward,+
+85.A,Hypothetical protein,7006,7596,forward,+
+85.A,Hypothetical protein,6581,6919,forward,+
+85.A,Hypothetical protein,6211,6600,forward,+
+85.A,Hypothetical protein,5469,5906,forward,+
+85.A,LexA repressor,5293,4682,reverse,-
+85.A,Hypothetical protein,4533,4276,reverse,-
+85.A,Hypothetical protein,4187,4005,reverse,-
+85.A,Bacterial regulation genes,3958,3716,reverse,-
+85.A,Bacterial regulation genes,3602,1671,reverse,-
+85.A,trpE,1481,1,reverse,-
+90.A,trpE,1,1482,forward,+
+90.A,Bacterial regulation genes,3557,1626,reverse,-
+90.A,Bacterial regulation genes,3913,3671,reverse,-
+90.A,Hypothetical protein,4142,3960,reverse,-
+90.A,Hypothetical protein,4488,4231,reverse,-
+90.A,LexA repressor,5280,4636,reverse,-
+90.A,Hypothetical protein,5423,5860,forward,+
+90.A,Hypothetical protein,6165,6554,forward,+
+90.A,Hypothetical protein,6535,6873,forward,+
+90.A,Hypothetical protein,6960,7550,forward,+
+90.A,Hypothetical protein,7547,7732,forward,+
+90.A,Tail sheath,7751,9247,forward,+
+90.A,Tail tube,9315,9662,forward,+
+90.A,Phage tail assembly chaperone,9659,9955,forward,+
+90.A,Tape measure,10086,12614,forward,+
+90.A,DNA circularization protein,12611,14104,forward,+
+90.A,Baseplate hub,14108,15214,forward,+
+90.A,Phage protein GP45,15211,15720,forward,+
+90.A,Phage protein GP46,15720,16118,forward,+
+90.A,Baseplate J-like protein,16108,17148,forward,+
+90.A,Hypothetical protein,17136,17735,forward,+
+90.A,Putative tail fiber gene,17746,18990,forward,+
+90.A,Hypothetical protein,19001,19429,forward,+
+90.A,Tail fiber assembly protein,19669,20166,forward,+
+90.A,Hypothetical protein,20483,21487,forward,+
+90.A,Putative chitinase,21511,22056,forward,+
+90.A,Spanin,22053,22562,forward,+
+90.A,trpG,22959,23558,forward,+
+89.A,trpE,1,1481,forward,+
+89.A,Bacterial regulation genes,3556,1625,reverse,-
+89.A,Bacterial regulation genes,3912,3670,reverse,-
+89.A,Hypothetical protein,4141,3959,reverse,-
+89.A,Hypothetical protein,4487,4230,reverse,-
+89.A,LexA repressor,5279,4635,reverse,-
+89.A,Hypothetical protein,5422,5859,forward,+
+89.A,Hypothetical protein,6164,6553,forward,+
+89.A,Hypothetical protein,6534,6872,forward,+
+89.A,Hypothetical protein,6959,7549,forward,+
+89.A,Hypothetical protein,7546,7731,forward,+
+89.A,Tail sheath,7750,9246,forward,+
+89.A,Tail tube,9314,9661,forward,+
+89.A,Phage tail assembly chaperone,9658,9954,forward,+
+89.A,Tape measure,10085,12613,forward,+
+89.A,DNA circularization protein,12610,14103,forward,+
+89.A,Baseplate hub,14107,15213,forward,+
+89.A,Phage protein GP45,15210,15719,forward,+
+89.A,Phage protein GP46,15719,16117,forward,+
+89.A,Baseplate J-like protein,16107,17147,forward,+
+89.A,Hypothetical protein,17135,17734,forward,+
+89.A,Putative tail fiber gene,17745,18989,forward,+
+89.A,Hypothetical protein,19000,19428,forward,+
+89.A,Tail fiber assembly protein,19668,20165,forward,+
+89.A,Hypothetical protein,20482,21486,forward,+
+89.A,Putative chitinase,21510,22055,forward,+
+89.A,Spanin,22052,22561,forward,+
+89.A,trpG,22958,23557,forward,+
+88.A,trpG,22674,23273,forward,+
+88.A,Spanin,21768,22277,forward,+
+88.A,Putative chitinase,21226,21771,forward,+
+88.A,Hypothetical protein,20198,21202,forward,+
+88.A,Tail fiber assembly protein,19550,20062,forward,+
+88.A,Putative tail fiber gene,17737,19539,forward,+
+88.A,Hypothetical protein,17127,17726,forward,+
+88.A,Baseplate J-like protein,16099,17139,forward,+
+88.A,Phage protein GP46,15711,16109,forward,+
+88.A,Phage protein GP45,15202,15711,forward,+
+88.A,Baseplate hub,14099,15205,forward,+
+88.A,DNA circularization protein,12602,14095,forward,+
+88.A,Tape measure,10323,12605,forward,+
+88.A,Hypothetical protein,10203,10298,reverse,-
+88.A,Phage tail assembly chaperone,9896,10192,forward,+
+88.A,Tail tube,9552,9899,forward,+
+88.A,Tail sheath,7988,9484,forward,+
+88.A,Hypothetical protein,7784,7969,forward,+
+88.A,Hypothetical protein,7197,7787,forward,+
+88.A,Hypothetical protein,6772,7110,forward,+
+88.A,Hypothetical protein,6402,6791,forward,+
+88.A,Hypothetical protein,5660,6097,forward,+
+88.A,LexA repressor,5517,4873,reverse,-
+88.A,Hypothetical protein,4724,4467,reverse,-
+88.A,Hypothetical protein,4378,4196,reverse,-
+88.A,Bacterial regulation genes,4149,3907,reverse,-
+88.A,Bacterial regulation genes,3793,1862,reverse,-
+88.A,trpE,1,1481,forward,+
+87.A,trpG,22674,23272,forward,+
+87.A,Spanin,21768,22277,forward,+
+87.A,Putative chitinase,21226,21771,forward,+
+87.A,Hypothetical protein,20198,21202,forward,+
+87.A,Tail fiber assembly protein,19550,20062,forward,+
+87.A,Putative tail fiber gene,17737,19539,forward,+
+87.A,Hypothetical protein,17127,17726,forward,+
+87.A,Baseplate J-like protein,16099,17139,forward,+
+87.A,Phage protein GP46,15711,16109,forward,+
+87.A,Phage protein GP45,15202,15711,forward,+
+87.A,Baseplate hub,14099,15205,forward,+
+87.A,DNA circularization protein,12602,14095,forward,+
+87.A,Tape measure,10323,12605,forward,+
+87.A,Phage tail assembly chaperone,9896,10192,forward,+
+87.A,Tail tube,9552,9899,forward,+
+87.A,Tail sheath,7988,9484,forward,+
+87.A,Hypothetical protein,7784,7969,forward,+
+87.A,Hypothetical protein,7197,7787,forward,+
+87.A,Hypothetical protein,6772,7110,forward,+
+87.A,Hypothetical protein,6402,6791,forward,+
+87.A,Hypothetical protein,5660,6097,forward,+
+87.A,LexA repressor,5517,4873,reverse,-
+87.A,Hypothetical protein,4724,4467,reverse,-
+87.A,Hypothetical protein,4378,4196,reverse,-
+87.A,Bacterial regulation genes,4149,3907,reverse,-
+87.A,Bacterial regulation genes,3793,1862,reverse,-
+87.A,trpE,1,1481,forward,+
+83.A,trpE,1,1481,forward,+
+83.A,Bacterial regulation genes,3793,1862,reverse,-
+83.A,Bacterial regulation genes,4149,3907,reverse,-
+83.A,Hypothetical protein,4378,4196,reverse,-
+83.A,Hypothetical protein,4724,4467,reverse,-
+83.A,LexA repressor,5517,4873,reverse,-
+83.A,Hypothetical protein,5660,6097,forward,+
+83.A,Hypothetical protein,6402,6791,forward,+
+83.A,Hypothetical protein,6772,7110,forward,+
+83.A,Hypothetical protein,7197,7787,forward,+
+83.A,Hypothetical protein,7784,7969,forward,+
+83.A,Tail sheath,7988,9484,forward,+
+83.A,Tail tube,9552,9899,forward,+
+83.A,Phage tail assembly chaperone,9896,10192,forward,+
+83.A,Tape measure,10323,12851,forward,+
+83.A,DNA circularization protein,12848,14341,forward,+
+83.A,Baseplate hub,14345,15451,forward,+
+83.A,Phage protein GP45,15448,15957,forward,+
+83.A,Phage protein GP46,15957,16355,forward,+
+83.A,Baseplate J-like protein,16345,17385,forward,+
+83.A,Hypothetical protein,17373,17972,forward,+
+83.A,Putative tail fiber gene,17983,19365,forward,+
+83.A,Tail fiber assembly protein,19376,19888,forward,+
+83.A,Hypothetical protein,20024,21028,forward,+
+83.A,Putative chitinase,21051,21596,forward,+
+83.A,Spanin,21593,22102,forward,+
+83.A,trpG,22499,23098,forward,+
+82.A,trpG,22272,22870,forward,+
+82.A,Spanin,21366,21875,forward,+
+82.A,Putative chitinase,20824,21369,forward,+
+82.A,Hypothetical protein,19796,20800,forward,+
+82.A,Tail fiber assembly protein,19148,19660,forward,+
+82.A,Putative tail fiber gene,17755,19137,forward,+
+82.A,Hypothetical protein,17145,17744,forward,+
+82.A,Baseplate J-like protein,16117,17157,forward,+
+82.A,Phage protein GP46,15729,16127,forward,+
+82.A,Phage protein GP45,15220,15729,forward,+
+82.A,Baseplate hub,14117,15223,forward,+
+82.A,DNA circularization protein,12611,14113,forward,+
+82.A,Tape measure,10086,12614,forward,+
+82.A,Hypothetical protein,9966,10061,reverse,-
+82.A,Phage tail assembly chaperone,9659,9955,forward,+
+82.A,Tail tube,9315,9662,forward,+
+82.A,Tail sheath,7751,9247,forward,+
+82.A,Hypothetical protein,7547,7732,forward,+
+82.A,Hypothetical protein,6960,7550,forward,+
+82.A,Hypothetical protein,6535,6873,forward,+
+82.A,Hypothetical protein,6165,6554,forward,+
+82.A,Hypothetical protein,5423,5860,forward,+
+82.A,LexA repressor,5280,4636,reverse,-
+82.A,Hypothetical protein,4487,4230,reverse,-
+82.A,Hypothetical protein,4141,3959,reverse,-
+82.A,Bacterial regulation genes,3912,3670,reverse,-
+82.A,Bacterial regulation genes,3556,1625,reverse,-
+82.A,trpE,1,1481,forward,+
+98.A,trpE,1,1482,forward,+
+98.A,Bacterial regulation genes,3557,1626,reverse,-
+98.A,Bacterial regulation genes,3913,3671,reverse,-
+98.A,Hypothetical protein,4142,3960,reverse,-
+98.A,Hypothetical protein,4488,4231,reverse,-
+98.A,LexA repressor,5281,4637,reverse,-
+98.A,Hypothetical protein,5424,5861,forward,+
+98.A,Hypothetical protein,6166,6555,forward,+
+98.A,Hypothetical protein,6536,6874,forward,+
+98.A,Hypothetical protein,6961,7551,forward,+
+98.A,Hypothetical protein,7548,7769,forward,+
+98.A,Tail sheath,7753,9249,forward,+
+98.A,Tail tube,9317,9664,forward,+
+98.A,Phage tail assembly chaperone,9661,9957,forward,+
+98.A,Tape measure,10088,12370,forward,+
+98.A,DNA circularization protein,12367,13866,forward,+
+98.A,Baseplate hub,13870,14976,forward,+
+98.A,Phage protein GP45,14973,15482,forward,+
+98.A,Phage protein GP46,15482,15880,forward,+
+98.A,Baseplate J-like protein,15870,16910,forward,+
+98.A,Hypothetical protein,16898,17497,forward,+
+98.A,Putative tail fiber gene,17508,18890,forward,+
+98.A,Tail fiber assembly protein,18901,19446,forward,+
+98.A,Putative chitinase,19458,20003,forward,+
+98.A,Spanin,20000,20509,forward,+
+98.A,trpG,20906,21505,forward,+
+99.A,trpE,1,1482,forward,+
+99.A,Bacterial regulation genes,3557,1626,reverse,-
+99.A,Bacterial regulation genes,3913,3671,reverse,-
+99.A,Hypothetical protein,4142,3960,reverse,-
+99.A,Hypothetical protein,4488,4231,reverse,-
+99.A,LexA repressor,5292,4636,reverse,-
+99.A,Hypothetical protein,5423,5860,forward,+
+99.A,Hypothetical protein,6165,6554,forward,+
+99.A,Hypothetical protein,6535,6873,forward,+
+99.A,Hypothetical protein,6960,7550,forward,+
+99.A,Hypothetical protein,7547,7732,forward,+
+99.A,Tail sheath,7751,9247,forward,+
+99.A,Tail tube,9315,9662,forward,+
+99.A,Phage tail assembly chaperone,9659,9955,forward,+
+99.A,Tape measure,10086,12368,forward,+
+99.A,DNA circularization protein,12365,13858,forward,+
+99.A,Baseplate hub,13862,14968,forward,+
+99.A,Phage protein GP45,14965,15474,forward,+
+99.A,Phage protein GP46,15474,15872,forward,+
+99.A,Baseplate J-like protein,15862,16902,forward,+
+99.A,Hypothetical protein,16890,17489,forward,+
+99.A,Putative tail fiber gene,17500,19302,forward,+
+99.A,Tail fiber assembly protein,19313,19825,forward,+
+99.A,Hypothetical protein,19963,20967,forward,+
+99.A,Putative chitinase,20991,21536,forward,+
+99.A,Spanin,21533,22042,forward,+
+99.A,trpG,22439,23038,forward,+
+97.A,trpG,22402,23001,forward,+
+97.A,Spanin,21496,22005,forward,+
+97.A,Putative chitinase,20954,21499,forward,+
+97.A,Hypothetical protein,19935,20930,forward,+
+97.A,Tail fiber assembly protein,19285,19797,forward,+
+97.A,Putative tail fiber gene,17472,19274,forward,+
+97.A,Hypothetical protein,16862,17461,forward,+
+97.A,Baseplate J-like protein,15834,16874,forward,+
+97.A,Phage protein GP46,15446,15844,forward,+
+97.A,Phage protein GP45,14937,15446,forward,+
+97.A,Baseplate hub,13834,14940,forward,+
+97.A,DNA circularization protein,12364,13830,forward,+
+97.A,Tape measure,10085,12367,forward,+
+97.A,Phage tail assembly chaperone,9658,9954,forward,+
+97.A,Tail tube,9314,9661,forward,+
+97.A,Tail sheath,7750,9246,forward,+
+97.A,Hypothetical protein,7546,7731,forward,+
+97.A,Hypothetical protein,6959,7549,forward,+
+97.A,Hypothetical protein,6534,6872,forward,+
+97.A,Hypothetical protein,6164,6553,forward,+
+97.A,Hypothetical protein,5422,5859,forward,+
+97.A,LexA repressor,5279,4635,reverse,-
+97.A,Hypothetical protein,4487,4230,reverse,-
+97.A,Hypothetical protein,4141,3959,reverse,-
+97.A,Bacterial regulation genes,3912,3670,reverse,-
+97.A,Bacterial regulation genes,3556,1625,reverse,-
+97.A,trpE,1,1481,forward,+
+96.A,trpG,22015,22614,forward,+
+96.A,Spanin,21111,21620,forward,+
+96.A,Putative chitinase,20569,21114,forward,+
+96.A,Hypothetical protein,19541,20545,forward,+
+96.A,Tail fiber assembly protein,18893,19405,forward,+
+96.A,Putative tail fiber gene,17500,18882,forward,+
+96.A,Hypothetical protein,16890,17489,forward,+
+96.A,Baseplate J-like protein,15862,16902,forward,+
+96.A,Phage protein GP46,15474,15872,forward,+
+96.A,Phage protein GP45,14965,15474,forward,+
+96.A,Baseplate hub,13862,14968,forward,+
+96.A,DNA circularization protein,12365,13858,forward,+
+96.A,Tape measure,10086,12368,forward,+
+96.A,Phage tail assembly chaperone,9659,9955,forward,+
+96.A,Tail tube,9315,9662,forward,+
+96.A,Tail sheath,7751,9247,forward,+
+96.A,Hypothetical protein,7547,7732,forward,+
+96.A,Hypothetical protein,6960,7550,forward,+
+96.A,Hypothetical protein,6535,6873,forward,+
+96.A,Hypothetical protein,6165,6554,forward,+
+96.A,Hypothetical protein,5423,5860,forward,+
+96.A,LexA repressor,5403,4636,reverse,-
+96.A,Hypothetical protein,4593,4468,reverse,-
+96.A,Hypothetical protein,4487,4230,reverse,-
+96.A,Hypothetical protein,4141,3959,reverse,-
+96.A,Bacterial regulation genes,3912,3670,reverse,-
+96.A,Bacterial regulation genes,3556,1625,reverse,-
+96.A,trpE,1,1481,forward,+
+95.A,trpE,1,1482,forward,+
+95.A,Bacterial regulation genes,3557,1626,reverse,-
+95.A,Bacterial regulation genes,3913,3671,reverse,-
+95.A,Hypothetical protein,4142,3960,reverse,-
+95.A,Hypothetical protein,4488,4231,reverse,-
+95.A,LexA repressor,5280,4636,reverse,-
+95.A,Hypothetical protein,5423,5860,forward,+
+95.A,Hypothetical protein,6165,6554,forward,+
+95.A,Hypothetical protein,6535,6873,forward,+
+95.A,Hypothetical protein,6960,7550,forward,+
+95.A,Hypothetical protein,7547,7732,forward,+
+95.A,Tail sheath,7751,9247,forward,+
+95.A,Tail tube,9315,9662,forward,+
+95.A,Phage tail assembly chaperone,9659,9955,forward,+
+95.A,Tape measure,10086,12368,forward,+
+95.A,DNA circularization protein,12365,13858,forward,+
+95.A,Baseplate hub,13862,14968,forward,+
+95.A,Phage protein GP45,14965,15474,forward,+
+95.A,Phage protein GP46,15474,15872,forward,+
+95.A,Baseplate J-like protein,15862,16902,forward,+
+95.A,Hypothetical protein,16890,17489,forward,+
+95.A,Putative tail fiber gene,17500,18744,forward,+
+95.A,Hypothetical protein,18755,19183,forward,+
+95.A,Tail fiber assembly protein,19423,19920,forward,+
+95.A,Hypothetical protein,20236,21240,forward,+
+95.A,Putative chitinase,21264,21809,forward,+
+95.A,Spanin,21806,22315,forward,+
+95.A,trpG,22711,23310,forward,+
+94.A,trpG,21998,22597,forward,+
+94.A,Spanin,21092,21601,forward,+
+94.A,Putative chitinase,20550,21095,forward,+
+94.A,Hypothetical protein,19522,20526,forward,+
+94.A,Tail fiber assembly protein,18874,19386,forward,+
+94.A,Putative tail fiber gene,17481,18863,forward,+
+94.A,Hypothetical protein,16871,17470,forward,+
+94.A,Baseplate J-like protein,15843,16883,forward,+
+94.A,Phage protein GP46,15455,15853,forward,+
+94.A,Phage protein GP45,14946,15455,forward,+
+94.A,Baseplate hub,13843,14949,forward,+
+94.A,DNA circularization protein,12364,13839,forward,+
+94.A,Tape measure,10085,12367,forward,+
+94.A,Phage tail assembly chaperone,9658,9954,forward,+
+94.A,Tail tube,9314,9661,forward,+
+94.A,Tail sheath,7750,9246,forward,+
+94.A,Hypothetical protein,7546,7731,forward,+
+94.A,Hypothetical protein,6959,7549,forward,+
+94.A,Hypothetical protein,6534,6872,forward,+
+94.A,Hypothetical protein,6164,6553,forward,+
+94.A,Hypothetical protein,5422,5859,forward,+
+94.A,LexA repressor,5279,4635,reverse,-
+94.A,Hypothetical protein,4487,4230,reverse,-
+94.A,Hypothetical protein,4141,3959,reverse,-
+94.A,Bacterial regulation genes,3912,3670,reverse,-
+94.A,Bacterial regulation genes,3556,1625,reverse,-
+94.A,trpE,1,1481,forward,+
+93.A,trpG,22250,22849,forward,+
+93.A,Spanin,21345,21854,forward,+
+93.A,Putative chitinase,20803,21348,forward,+
+93.A,Hypothetical protein,19775,20779,forward,+
+93.A,Tail fiber assembly protein,19127,19639,forward,+
+93.A,Putative tail fiber gene,17734,19116,forward,+
+93.A,Hypothetical protein,17124,17723,forward,+
+93.A,Baseplate J-like protein,16096,17136,forward,+
+93.A,Phage protein GP46,15708,16106,forward,+
+93.A,Phage protein GP45,15199,15708,forward,+
+93.A,Baseplate hub,14096,15202,forward,+
+93.A,DNA circularization protein,12611,14092,forward,+
+93.A,Tape measure,10086,12614,forward,+
+93.A,Phage tail assembly chaperone,9659,9955,forward,+
+93.A,Tail tube,9315,9662,forward,+
+93.A,Tail sheath,7751,9247,forward,+
+93.A,Hypothetical protein,7547,7732,forward,+
+93.A,Hypothetical protein,6960,7550,forward,+
+93.A,Hypothetical protein,6535,6873,forward,+
+93.A,Hypothetical protein,6165,6554,forward,+
+93.A,Hypothetical protein,5423,5860,forward,+
+93.A,LexA repressor,5280,4636,reverse,-
+93.A,Hypothetical protein,4487,4230,reverse,-
+93.A,Hypothetical protein,4141,3959,reverse,-
+93.A,Bacterial regulation genes,3912,3670,reverse,-
+93.A,Bacterial regulation genes,3556,1625,reverse,-
+93.A,trpE,1,1481,forward,+
+92.A,trpG,22262,22861,forward,+
+92.A,Spanin,21357,21866,forward,+
+92.A,Putative chitinase,20815,21360,forward,+
+92.A,Hypothetical protein,19787,20791,forward,+
+92.A,Tail fiber assembly protein,19139,19651,forward,+
+92.A,Putative tail fiber gene,17746,19128,forward,+
+92.A,Hypothetical protein,17136,17735,forward,+
+92.A,Baseplate J-like protein,16108,17148,forward,+
+92.A,Phage protein GP46,15720,16118,forward,+
+92.A,Phage protein GP45,15211,15720,forward,+
+92.A,Baseplate hub,14108,15214,forward,+
+92.A,DNA circularization protein,12611,14104,forward,+
+92.A,Tape measure,10086,12614,forward,+
+92.A,Phage tail assembly chaperone,9659,9955,forward,+
+92.A,Tail tube,9315,9662,forward,+
+92.A,Tail sheath,7751,9247,forward,+
+92.A,Hypothetical protein,7547,7732,forward,+
+92.A,Hypothetical protein,6960,7550,forward,+
+92.A,Hypothetical protein,6535,6873,forward,+
+92.A,Hypothetical protein,6165,6554,forward,+
+92.A,Hypothetical protein,5423,5860,forward,+
+92.A,LexA repressor,5280,4636,reverse,-
+92.A,Hypothetical protein,4487,4230,reverse,-
+92.A,Hypothetical protein,4141,3959,reverse,-
+92.A,Bacterial regulation genes,3912,3670,reverse,-
+92.A,Bacterial regulation genes,3556,1625,reverse,-
+92.A,trpE,1,1481,forward,+
+91.A,trpE,1,1482,forward,+
+91.A,Bacterial regulation genes,3557,1626,reverse,-
+91.A,Bacterial regulation genes,3913,3671,reverse,-
+91.A,Hypothetical protein,4142,3960,reverse,-
+91.A,Hypothetical protein,4488,4231,reverse,-
+91.A,LexA repressor,5280,4636,reverse,-
+91.A,Hypothetical protein,5423,5860,forward,+
+91.A,Hypothetical protein,6165,6554,forward,+
+91.A,Hypothetical protein,6535,6873,forward,+
+91.A,Hypothetical protein,6960,7550,forward,+
+91.A,Hypothetical protein,7547,7732,forward,+
+91.A,Tail sheath,7751,9247,forward,+
+91.A,Tail tube,9315,9662,forward,+
+91.A,Phage tail assembly chaperone,9659,9955,forward,+
+91.A,Tape measure,10086,12368,forward,+
+91.A,DNA circularization protein,12365,13858,forward,+
+91.A,Baseplate hub,13862,14968,forward,+
+91.A,Phage protein GP45,14965,15474,forward,+
+91.A,Phage protein GP46,15474,15872,forward,+
+91.A,Baseplate J-like protein,15862,16902,forward,+
+91.A,Hypothetical protein,16890,17489,forward,+
+91.A,Putative tail fiber gene,17500,19329,forward,+
+91.A,Tail fiber assembly protein,19347,19892,forward,+
+91.A,Putative chitinase,19904,20449,forward,+
+91.A,Spanin,20446,20955,forward,+
+91.A,trpG,21352,21951,forward,+
+70.A,trpE,1,1482,forward,+
+70.A,Bacterial regulation genes,3794,1863,reverse,-
+70.A,Bacterial regulation genes,4150,3908,reverse,-
+70.A,Hypothetical protein,4379,4197,reverse,-
+70.A,Hypothetical protein,4725,4468,reverse,-
+70.A,LexA repressor,5518,4874,reverse,-
+70.A,Hypothetical protein,5661,6098,forward,+
+70.A,Hypothetical protein,6403,6792,forward,+
+70.A,Hypothetical protein,6773,7111,forward,+
+70.A,Hypothetical protein,7198,7788,forward,+
+70.A,Hypothetical protein,7785,7970,forward,+
+70.A,Tail sheath,7989,9485,forward,+
+70.A,Tail tube,9553,9900,forward,+
+70.A,Phage tail assembly chaperone,9897,10193,forward,+
+70.A,Hypothetical protein,10299,10204,reverse,-
+70.A,Tape measure,10324,12852,forward,+
+70.A,DNA circularization protein,12849,14342,forward,+
+70.A,Baseplate hub,14346,15452,forward,+
+70.A,Phage protein GP45,15449,15958,forward,+
+70.A,Phage protein GP46,15958,16356,forward,+
+70.A,Baseplate J-like protein,16346,17386,forward,+
+70.A,Hypothetical protein,17374,17973,forward,+
+70.A,Putative tail fiber gene,17984,19786,forward,+
+70.A,Tail fiber assembly protein,19797,20309,forward,+
+70.A,Hypothetical protein,20447,21451,forward,+
+70.A,Putative chitinase,21475,22020,forward,+
+70.A,Spanin,22017,22526,forward,+
+70.A,trpG,22923,23522,forward,+
+81.A,trpE,1,1482,forward,+
+81.A,Bacterial regulation genes,1644,3575,reverse,-
+81.A,Bacterial regulation genes,3689,3931,reverse,-
+81.A,Hypothetical protein,3978,4160,reverse,-
+81.A,Hypothetical protein,4249,4506,reverse,-
+81.A,LexA repressor,4655,5299,reverse,-
+81.A,Hypothetical protein,5442,5879,forward,+
+81.A,Hypothetical protein,6184,6573,forward,+
+81.A,Hypothetical protein,6554,6892,forward,+
+81.A,Hypothetical protein,6979,7569,forward,+
+81.A,Hypothetical protein,7566,7751,forward,+
+81.A,Tail sheath,7770,9266,forward,+
+81.A,Tail tube,9334,9681,forward,+
+81.A,Phage tail assembly chaperone,9678,9974,forward,+
+81.A,Hypothetical protein,10080,9985,reverse,-
+81.A,Tape measure,10105,12633,forward,+
+81.A,DNA circularization protein,12630,14123,forward,+
+81.A,Baseplate hub,14127,15233,forward,+
+81.A,Phage protein GP45,15230,15739,forward,+
+81.A,Phage protein GP46,15739,16137,forward,+
+81.A,Baseplate J-like protein,16127,17167,forward,+
+81.A,Hypothetical protein,17155,17754,forward,+
+81.A,Putative tail fiber gene,17765,19594,forward,+
+81.A,Tail fiber assembly protein,19612,20157,forward,+
+81.A,Putative chitinase,20169,20714,forward,+
+81.A,Spanin,20711,21220,forward,+
+81.A,trpG,21616,22215,forward,+
+69.A,trpE,1,1482,forward,+
+69.A,Bacterial regulation genes,3575,1644,reverse,-
+69.A,Bacterial regulation genes,3931,3689,reverse,-
+69.A,Hypothetical protein,4160,3978,reverse,-
+69.A,Hypothetical protein,4506,4249,reverse,-
+69.A,LexA repressor,5299,4655,reverse,-
+69.A,Hypothetical protein,5442,5879,forward,+
+69.A,Hypothetical protein,6347,7177,forward,+
+69.A,Hypothetical protein,7422,7811,forward,+
+69.A,Hypothetical protein,7792,8130,forward,+
+69.A,Hypothetical protein,8217,8807,forward,+
+69.A,Hypothetical protein,8804,8989,forward,+
+69.A,Tail sheath,9008,10504,forward,+
+69.A,Tail tube,10572,10919,forward,+
+69.A,Phage tail assembly chaperone,10916,11212,forward,+
+69.A,Hypothetical protein,11318,11223,reverse,-
+69.A,Tape measure,11343,13871,forward,+
+69.A,DNA circularization protein,13868,15361,forward,+
+69.A,Baseplate hub,15365,16471,forward,+
+69.A,Phage protein GP45,16468,16977,forward,+
+69.A,Phage protein GP46,16977,17375,forward,+
+69.A,Baseplate J-like protein,17365,18405,forward,+
+69.A,Hypothetical protein,18393,18992,forward,+
+69.A,Putative tail fiber gene,19003,20805,forward,+
+69.A,Tail fiber assembly protein,20816,21328,forward,+
+69.A,Hypothetical protein,21464,22468,forward,+
+69.A,Putative chitinase,22492,23037,forward,+
+69.A,Spanin,23034,23543,forward,+
+69.A,trpG,23940,24539,forward,+
+68.A,trpE,1,1482,forward,+
+68.A,Bacterial regulation genes,1644,3575,reverse,-
+68.A,Bacterial regulation genes,3689,3931,reverse,-
+68.A,Hypothetical protein,3978,4160,reverse,-
+68.A,Hypothetical protein,4249,4506,reverse,-
+68.A,LexA repressor,4655,5299,reverse,-
+68.A,Hypothetical protein,5442,5879,forward,+
+68.A,Hypothetical protein,6184,6573,forward,+
+68.A,Hypothetical protein,6554,6892,forward,+
+68.A,Hypothetical protein,6979,7569,forward,+
+68.A,Hypothetical protein,7566,7751,forward,+
+68.A,Tail sheath,7770,9266,forward,+
+68.A,Tail tube,9334,9681,forward,+
+68.A,Phage tail assembly chaperone,9678,9974,forward,+
+68.A,Hypothetical protein,10080,9985,reverse,-
+68.A,Tape measure,10105,12387,forward,+
+68.A,DNA circularization protein,12384,13877,forward,+
+68.A,Baseplate hub,13881,14987,forward,+
+68.A,Phage protein GP45,14984,15493,forward,+
+68.A,Phage protein GP46,15493,15891,forward,+
+68.A,Baseplate J-like protein,15881,16921,forward,+
+68.A,Hypothetical protein,16909,17508,forward,+
+68.A,Putative tail fiber gene,17519,19321,forward,+
+68.A,Tail fiber assembly protein,19332,19844,forward,+
+68.A,Hypothetical protein,19981,20985,forward,+
+68.A,Putative chitinase,21009,21554,forward,+
+68.A,Spanin,21551,22060,forward,+
+68.A,trpG,22456,23055,forward,+
+67.A,trpE,1,1482,forward,+
+67.A,Bacterial regulation genes,3794,1863,reverse,-
+67.A,Bacterial regulation genes,4150,3908,reverse,-
+67.A,Hypothetical protein,4379,4197,reverse,-
+67.A,Hypothetical protein,4725,4468,reverse,-
+67.A,Hypothetical protein,4831,4706,reverse,-
+67.A,LexA repressor,5485,4874,reverse,-
+67.A,Hypothetical protein,5661,6098,forward,+
+67.A,Hypothetical protein,6403,6792,forward,+
+67.A,Hypothetical protein,6773,7111,forward,+
+67.A,Hypothetical protein,7198,7788,forward,+
+67.A,Hypothetical protein,7785,7970,forward,+
+67.A,Tail sheath,7989,9485,forward,+
+67.A,Tail tube,9553,9900,forward,+
+67.A,Phage tail assembly chaperone,9897,10193,forward,+
+67.A,Hypothetical protein,10299,10204,reverse,-
+67.A,Tape measure,10324,12852,forward,+
+67.A,DNA circularization protein,12849,14342,forward,+
+67.A,Baseplate hub,14346,15452,forward,+
+67.A,Phage protein GP45,15449,15958,forward,+
+67.A,Phage protein GP46,15958,16356,forward,+
+67.A,Baseplate J-like protein,16346,17386,forward,+
+67.A,Hypothetical protein,17374,17973,forward,+
+67.A,Putative tail fiber gene,17984,19228,forward,+
+67.A,Tail fiber assembly protein,19239,19667,forward,+
+67.A,Hypothetical protein,19907,20404,forward,+
+67.A,Hypothetical protein,20722,21726,forward,+
+67.A,Putative chitinase,21750,22295,forward,+
+67.A,Spanin,22292,22801,forward,+
+67.A,trpG,23198,23797,forward,+
+66.A,trpG,21328,21927,forward,+
+66.A,Spanin,20422,20931,forward,+
+66.A,Putative chitinase,19880,20425,forward,+
+66.A,Tail fiber assembly protein,19326,19868,forward,+
+66.A,Putative tail fiber gene,17479,19308,forward,+
+66.A,Hypothetical protein,16869,17468,forward,+
+66.A,Baseplate J-like protein,15841,16881,forward,+
+66.A,Phage protein GP46,15453,15851,forward,+
+66.A,Phage protein GP45,14944,15453,forward,+
+66.A,Baseplate hub,13841,14947,forward,+
+66.A,DNA circularization protein,12371,13837,forward,+
+66.A,Tape measure,10092,12374,forward,+
+66.A,Phage tail assembly chaperone,9665,9961,forward,+
+66.A,Tail tube,9321,9668,forward,+
+66.A,Tail sheath,7757,9253,forward,+
+66.A,Hypothetical protein,7553,7738,forward,+
+66.A,Hypothetical protein,6966,7556,forward,+
+66.A,Hypothetical protein,6541,6879,forward,+
+66.A,Hypothetical protein,6171,6560,forward,+
+66.A,Hypothetical protein,5429,5866,forward,+
+66.A,LexA repressor,5286,4642,reverse,-
+66.A,Hypothetical protein,4493,4236,reverse,-
+66.A,Hypothetical protein,4147,3965,reverse,-
+66.A,Bacterial regulation genes,3918,3676,reverse,-
+66.A,Bacterial regulation genes,3562,1631,reverse,-
+66.A,trpE,1,1481,forward,+
+65.A,trpG,21326,21925,forward,+
+65.A,Spanin,20420,20929,forward,+
+65.A,Putative chitinase,19878,20423,forward,+
+65.A,Tail fiber assembly protein,19324,19866,forward,+
+65.A,Putative tail fiber gene,17477,19306,forward,+
+65.A,Hypothetical protein,16867,17466,forward,+
+65.A,Baseplate J-like protein,15839,16879,forward,+
+65.A,Phage protein GP46,15451,15849,forward,+
+65.A,Phage protein GP45,14942,15451,forward,+
+65.A,Baseplate hub,13839,14945,forward,+
+65.A,DNA circularization protein,12369,13835,forward,+
+65.A,Tape measure,10090,12372,forward,+
+65.A,Phage tail assembly chaperone,9663,9959,forward,+
+65.A,Tail tube,9319,9666,forward,+
+65.A,Tail sheath,7755,9251,forward,+
+65.A,Hypothetical protein,7551,7736,forward,+
+65.A,Hypothetical protein,6964,7554,forward,+
+65.A,Hypothetical protein,6539,6877,forward,+
+65.A,Hypothetical protein,6169,6558,forward,+
+65.A,Hypothetical protein,5427,5864,forward,+
+65.A,LexA repressor,5284,4640,reverse,-
+65.A,Hypothetical protein,4493,4236,reverse,-
+65.A,Hypothetical protein,4147,3965,reverse,-
+65.A,Bacterial regulation genes,3918,3676,reverse,-
+65.A,Bacterial regulation genes,3562,1631,reverse,-
+65.A,trpE,1,1481,forward,+
+64.A,trpG,21301,21900,forward,+
+64.A,Spanin,20396,20905,forward,+
+64.A,Putative chitinase,19854,20399,forward,+
+64.A,Tail fiber assembly protein,19300,19842,forward,+
+64.A,Putative tail fiber gene,17453,19282,forward,+
+64.A,Hypothetical protein,16843,17442,forward,+
+64.A,Baseplate J-like protein,15815,16855,forward,+
+64.A,Phage protein GP46,15427,15825,forward,+
+64.A,Phage protein GP45,14918,15427,forward,+
+64.A,Baseplate hub,13815,14921,forward,+
+64.A,DNA circularization protein,12366,13811,forward,+
+64.A,Tape measure,10087,12369,forward,+
+64.A,Phage tail assembly chaperone,9660,9956,forward,+
+64.A,Tail tube,9316,9663,forward,+
+64.A,Tail sheath,7752,9248,forward,+
+64.A,Hypothetical protein,7548,7733,forward,+
+64.A,Hypothetical protein,6961,7551,forward,+
+64.A,Hypothetical protein,6536,6874,forward,+
+64.A,Hypothetical protein,6166,6555,forward,+
+64.A,Hypothetical protein,5424,5861,forward,+
+64.A,LexA repressor,5281,4637,reverse,-
+64.A,Hypothetical protein,4488,4231,reverse,-
+64.A,Hypothetical protein,4142,3960,reverse,-
+64.A,Bacterial regulation genes,3913,3671,reverse,-
+64.A,Bacterial regulation genes,3557,1626,reverse,-
+64.A,trpE,1,1481,forward,+
+63.A,trpE,1,1482,forward,+
+63.A,Bacterial regulation genes,3626,1704,reverse,-
+63.A,Bacterial regulation genes,3999,3733,reverse,-
+63.A,Hypothetical protein,4345,4097,reverse,-
+63.A,LexA repressor,5145,4498,reverse,-
+63.A,Hypothetical protein,5299,5736,forward,+
+63.A,Colicin-M,6209,7039,forward,+
+63.A,Hypothetical protein,7700,8089,forward,+
+63.A,Hypothetical protein,8067,8408,forward,+
+63.A,Hypothetical protein,8454,9044,forward,+
+63.A,Hypothetical protein,9041,9229,forward,+
+63.A,Tail sheath,9248,10744,forward,+
+63.A,Tail tube,10805,11152,forward,+
+63.A,Phage tail assembly chaperone,11149,11445,forward,+
+63.A,Hypothetical protein,11551,11456,reverse,-
+63.A,Tape measure,11576,13720,forward,+
+63.A,DNA circularization protein,13717,15141,forward,+
+63.A,Baseplate hub,15145,16254,forward,+
+63.A,Phage protein GP45,16251,16763,forward,+
+63.A,Phage protein GP46,16760,17158,forward,+
+63.A,Baseplate J-like protein,17148,18188,forward,+
+63.A,Hypothetical protein,18176,18775,forward,+
+63.A,Putative tail fiber gene,18786,20246,forward,+
+63.A,Tail fiber assembly protein,20254,20820,forward,+
+63.A,Hypothetical protein,21072,22130,forward,+
+63.A,Putative chitinase,22238,22783,forward,+
+63.A,Spanin,22780,23289,forward,+
+63.A,trpG,23701,24300,forward,+
+62.A,trpE,1,1482,forward,+
+62.A,Bacterial regulation genes,3765,1843,reverse,-
+62.A,Bacterial regulation genes,4137,3871,reverse,-
+62.A,Hypothetical protein,4483,4235,reverse,-
+62.A,LexA repressor,5284,4637,reverse,-
+62.A,Hypothetical protein,5438,5881,forward,+
+62.A,Hypothetical protein,6241,6630,forward,+
+62.A,Hypothetical protein,6611,6949,forward,+
+62.A,Hypothetical protein,6996,7586,forward,+
+62.A,Hypothetical protein,7583,7771,forward,+
+62.A,Tail sheath,7790,9286,forward,+
+62.A,Tail tube,9347,9694,forward,+
+62.A,Phage tail assembly chaperone,9691,9987,forward,+
+62.A,Hypothetical protein,10093,9998,reverse,-
+62.A,Tape measure,10118,12277,forward,+
+62.A,DNA circularization protein,12274,13698,forward,+
+62.A,Baseplate hub,13702,14829,forward,+
+62.A,Phage protein GP45,14826,15338,forward,+
+62.A,Phage protein GP46,15335,15733,forward,+
+62.A,Baseplate J-like protein,15723,16763,forward,+
+62.A,Hypothetical protein,16751,17350,forward,+
+62.A,Putative tail fiber gene,17361,18893,forward,+
+62.A,Hypothetical protein,18904,19449,forward,+
+62.A,Putative chitinase,19561,20106,forward,+
+62.A,Spanin,20103,20615,forward,+
+62.A,trpG,21027,21626,forward,+
+61.A,trpG,4162,4776,forward,+
+61.A,Bacterial regulation genes,3705,1765,reverse,-
+61.A,trpE,1,1472,forward,+
+60.A,trpG,15126,15719,forward,+
+60.A,Hypothetical protein,14835,14731,reverse,-
+60.A,Bacterial regulation genes,14718,12811,reverse,-
+60.A,Hypothetical protein,11157,12638,forward,+
+60.A,Hypothetical protein,1504,2109,forward,+
+60.A,trpE,1,1523,forward,+
+59.A,trpG,3973,4566,forward,+
+59.A,Hypothetical protein,3681,3577,reverse,-
+59.A,Bacterial regulation genes,3564,1657,reverse,-
+59.A,trpE,1,1481,forward,+
+58.A,trpE,1,1482,forward,+
+58.A,trpG,1492,2085,forward,+
+57.A,trpG,1581,2174,forward,+
+57.A,trpE,1,1481,forward,+
+56.A,trpG,1581,2174,forward,+
+56.A,trpE,1,1481,forward,+
+55.A,trpG,1581,2174,forward,+
+55.A,trpE,1,1481,forward,+
+p25.A12,trpG,20920,21519,forward,+
+p25.A12,Spanin,20014,20523,forward,+
+p25.A12,Putative chitinase,19472,20017,forward,+
+p25.A12,Tail fiber assembly protein,18915,19460,forward,+
+p25.A12,Putative tail fiber gene,17522,18904,forward,+
+p25.A12,Hypothetical protein,16912,17511,forward,+
+p25.A12,Baseplate J-like protein,15884,16924,forward,+
+p25.A12,Phage protein GP46,15496,15894,forward,+
+p25.A12,Phage protein GP45,14987,15496,forward,+
+p25.A12,Baseplate hub,13884,14990,forward,+
+p25.A12,DNA circularization protein,12381,13880,forward,+
+p25.A12,Tape measure,10000,12384,forward,+
+p25.A12,Phage tail assembly chaperone,9660,9956,reverse,-
+p25.A12,Tail tube,9316,9663,reverse,-
+p25.A12,Tail sheath,7752,9248,reverse,-
+p25.A12,Hypothetical protein,7547,7768,reverse,-
+p25.A12,Hypothetical protein,6960,7550,reverse,-
+p25.A12,Hypothetical protein,6535,6873,reverse,-
+p25.A12,Hypothetical protein,6165,6554,reverse,-
+p25.A12,Hypothetical protein,5423,5860,reverse,-
+p25.A12,LexA repressor,4636,5280,forward,+
+p25.A12,Hypothetical protein,4230,4487,forward,+
+p25.A12,Hypothetical protein,3959,4141,forward,+
+p25.A12,Bacterial regulation genes,3670,3912,forward,+
+p25.A12,Bacterial regulation genes,1625,3556,forward,+
+p25.A12,trpE,1,1481,reverse,-
